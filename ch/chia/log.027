@@ -1,0 +1,1005 @@
+
+Crafty v22.1 (1 cpus)
+
+White(1): 
+board
+White(1): st 0.1
+search time set to 0.10.
+White(1): easy
+pondering disabled.
+White(1): skill 50
+skill level set to 50%
+White(1): force
+White(1): e4
+feature done=1
+Black(1): ping 1
+pong 1
+Black(1): go
+              time surplus   0.00  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+              time=0.14  mat=0  n=62803  fh=75%  nps=448K
+              ext-> check=744 1rep=8 mate=0 pp=0 reduce=29K/7K
+              predicted=0  evals=47K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.14
+Black(1): d5
+              time used:   0.14
+White(2): ?
+White(2): ping 1
+pong 1
+White(2): force
+White(2): exd5
+Black(2): ping 1
+pong 1
+Black(2): go
+              time surplus  29.86  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(1): ?
+Black(1): ping 1
+              time=0.03  mat=1  n=10237  fh=76%  nps=1.0M
+              ext-> check=283 1rep=1 mate=0 pp=0 reduce=4K/684
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.03
+Black(2): Qxd5
+              time used:   0.03
+pong 1
+White(3): force
+White(3): Nc3
+Black(3): ping 1
+pong 1
+Black(3): go
+              time surplus  59.83  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(2): ?
+Black(2): ping 1
+              time=0.01  mat=0  n=10452  fh=83%  nps=1.0M
+              ext-> check=216 1rep=2 mate=0 pp=0 reduce=4K/761
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(3): Qe5+
+              time used:   0.01
+pong 1
+White(4): force
+White(4): Be2
+Black(4): ping 1
+pong 1
+Black(4): go
+              time surplus   1:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(3): ?
+Black(3): ping 1
+              time=0.02  mat=0  n=10272  fh=89%  nps=1.0M
+              ext-> check=246 1rep=3 mate=0 pp=0 reduce=5K/581
+              predicted=0  evals=7K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(4): Qg5
+              time used:   0.02
+pong 1
+White(5): force
+White(5): Bf3
+Black(5): ping 1
+pong 1
+Black(5): go
+              time surplus   1:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(4): ?
+Black(4): ping 1
+              time=0.02  mat=0  n=10226  fh=81%  nps=1.0M
+              ext-> check=293 1rep=3 mate=0 pp=0 reduce=5K/479
+              predicted=0  evals=7K  50move=5  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(5): Nf6
+              time used:   0.02
+pong 1
+White(6): force
+White(6): d4
+Black(6): ping 1
+pong 1
+Black(6): go
+              time surplus   2:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(5): ?
+Black(5): ping 1
+              time=0.02  mat=0  n=10372  fh=82%  nps=1.0M
+              ext-> check=136 1rep=2 mate=0 pp=0 reduce=5K/684
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(6): Qf5
+              time used:   0.02
+pong 1
+White(7): force
+White(7): Nd2
+Illegal move: Nd2
+White(7): ping 1
+pong 1
+White(7): force
+White(7): Ngd2
+Illegal move: Ngd2
+White(7): ping 1
+pong 1
+White(7): force
+White(7): Nge2
+Black(7): ping 1
+pong 1
+Black(7): go
+              time surplus   2:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(6): ?
+Black(6): ping 1
+              time=0.02  mat=0  n=10211  fh=85%  nps=1.0M
+              ext-> check=102 1rep=0 mate=0 pp=0 reduce=4K/613
+              predicted=0  evals=7K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(7): Nc6
+              time used:   0.02
+pong 1
+White(8): force
+White(8): Bf4
+Black(8): ping 1
+pong 1
+Black(8): go
+              time surplus   3:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(7): ?
+Black(7): ping 1
+              time=0.02  mat=0  n=10275  fh=91%  nps=1.0M
+              ext-> check=87 1rep=0 mate=0 pp=0 reduce=4K/451
+              predicted=0  evals=8K  50move=4  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(8): Nb4
+              time used:   0.02
+pong 1
+White(9): remove
+White(8): force
+White(8): a3
+Black(8): ping 1
+pong 1
+Black(8): go
+              time surplus   3:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(7): ?
+Black(7): ping 1
+              time=0.02  mat=0  n=10324  fh=84%  nps=1.0M
+              ext-> check=126 1rep=1 mate=0 pp=0 reduce=4K/536
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(8): e5
+              time used:   0.02
+pong 1
+White(9): force
+White(9): dxe5
+Black(9): ping 1
+pong 1
+Black(9): go
+              time surplus   3:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(8): ?
+Black(8): ping 1
+              time=0.01  mat=1  n=11120  fh=91%  nps=1.0M
+              ext-> check=267 1rep=10 mate=0 pp=0 reduce=5K/409
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(9): Nxe5
+              time used:   0.01
+pong 1
+White(10): force
+White(10): Bf4
+Black(10): ping 1
+pong 1
+Black(10): go
+              time surplus   4:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(9): ?
+Black(9): ping 1
+              time=0.02  mat=0  n=10690  fh=92%  nps=1.0M
+              ext-> check=173 1rep=4 mate=0 pp=0 reduce=4K/344
+              predicted=0  evals=8K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(10): Nxf3+
+              time used:   0.02
+pong 1
+White(11): remove
+White(10): remove
+White(9): force
+White(9): Bxc6
+Black(9): ping 1
+pong 1
+Black(9): go
+              time surplus   3:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(8): ?
+Black(8): ping 1
+              time=0.02  mat=3  n=10224  fh=86%  nps=1.0M
+              ext-> check=130 1rep=6 mate=0 pp=0 reduce=4K/307
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(9): bxc6
+              time used:   0.02
+pong 1
+White(10): force
+White(10): dxe5
+Black(10): ping 1
+pong 1
+Black(10): go
+              time surplus   4:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(9): ?
+Black(9): ping 1
+              time=0.02  mat=1  n=10594  fh=92%  nps=1.0M
+              ext-> check=168 1rep=8 mate=0 pp=0 reduce=4K/438
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(10): Ng4
+              time used:   0.02
+pong 1
+White(11): force
+White(11): O-O
+Black(11): ping 1
+pong 1
+Black(11): go
+              time surplus   4:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(10): ?
+Black(10): ping 1
+              time=0.02  mat=1  n=10274  fh=89%  nps=1.0M
+              ext-> check=197 1rep=13 mate=0 pp=0 reduce=4K/492
+              predicted=0  evals=8K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(11): g5
+              time used:   0.02
+pong 1
+White(12): force
+White(12): Rfe1
+Black(12): ping 1
+pong 1
+Black(12): go
+              time surplus   5:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(11): ?
+Black(11): ping 1
+              time=0.02  mat=1  n=10524  fh=83%  nps=1.0M
+              ext-> check=373 1rep=58 mate=0 pp=0 reduce=4K/371
+              predicted=0  evals=8K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(12): Qxf2+
+              time used:   0.02
+pong 1
+White(13): remove
+White(12): force
+White(12): Ng3
+Black(12): ping 1
+pong 1
+Black(12): go
+              time surplus   5:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(11): ?
+Black(11): ping 1
+              time=0.02  mat=1  n=10872  fh=87%  nps=1.0M
+              ext-> check=177 1rep=11 mate=0 pp=0 reduce=3K/361
+              predicted=0  evals=8K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(12): Qg6
+              time used:   0.02
+pong 1
+White(13): force
+White(13): Re1
+Black(13): ping 1
+pong 1
+Black(13): go
+              time surplus   5:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(12): ?
+Black(12): ping 1
+              time=0.02  mat=1  n=10337  fh=85%  nps=1.0M
+              ext-> check=267 1rep=17 mate=0 pp=0 reduce=5K/655
+              predicted=0  evals=8K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(13): Bd7
+              time used:   0.03
+pong 1
+White(14): force
+White(14): Qd3
+Black(14): ping 1
+pong 1
+Black(14): go
+              time surplus   6:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(13): ?
+Black(13): ping 1
+              time=0.02  mat=1  n=10545  fh=82%  nps=1.0M
+              ext-> check=78 1rep=7 mate=0 pp=0 reduce=3K/442
+              predicted=0  evals=9K  50move=5  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(14): Qxd3
+              time used:   0.02
+pong 1
+White(15): force
+White(15): cxd3
+Black(15): ping 1
+pong 1
+Black(15): go
+              time surplus   6:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(14): ?
+Black(14): ping 1
+              time=0.02  mat=1  n=10306  fh=85%  nps=1.0M
+              ext-> check=100 1rep=0 mate=0 pp=0 reduce=4K/489
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(15): Rb8
+              time used:   0.02
+pong 1
+White(16): force
+White(16): h3
+Black(16): ping 1
+pong 1
+Black(16): go
+              time surplus   7:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(15): ?
+Black(15): ping 1
+              time=0.02  mat=1  n=10421  fh=83%  nps=1.0M
+              ext-> check=94 1rep=0 mate=0 pp=0 reduce=4K/483
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(16): Nh6
+              time used:   0.02
+pong 1
+White(17): force
+White(17): Ne4
+Illegal move (ambiguous): Ne4
+White(17): ping 1
+pong 1
+White(17): force
+White(17): Bxg5
+Black(17): ping 1
+pong 1
+Black(17): go
+              time surplus   7:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(16): ?
+Black(16): ping 1
+              time=0.01  mat=2  n=10498  fh=83%  nps=1.0M
+              ext-> check=53 1rep=1 mate=0 pp=0 reduce=4K/450
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(17): Rxb2
+              time used:   0.01
+pong 1
+White(18): force
+White(18): Na2
+Black(18): ping 1
+pong 1
+Black(18): go
+              time surplus   8:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(17): ?
+Black(17): ping 1
+              time=0.02  mat=1  n=10400  fh=85%  nps=1.0M
+              ext-> check=33 1rep=1 mate=0 pp=0 reduce=4K/488
+              predicted=0  evals=8K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(18): Rg8
+              time used:   0.02
+pong 1
+White(19): force
+White(19): Bf4
+Black(19): ping 1
+pong 1
+Black(19): go
+              time surplus   8:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(18): ?
+Black(18): ping 1
+              time=0.02  mat=1  n=10189  fh=81%  nps=1.0M
+              ext-> check=60 1rep=0 mate=0 pp=0 reduce=3K/406
+              predicted=0  evals=8K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(19): Be6
+              time used:   0.02
+pong 1
+White(20): force
+White(20): Nb4
+Black(20): ping 1
+pong 1
+Black(20): go
+              time surplus   9:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(19): ?
+Black(19): ping 1
+              time=0.01  mat=1  n=10420  fh=88%  nps=1.0M
+              ext-> check=97 1rep=0 mate=0 pp=0 reduce=3K/434
+              predicted=0  evals=9K  50move=5  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(20): Nf5
+              time used:   0.01
+pong 1
+White(21): force
+White(21): Nxc6
+Black(21): ping 1
+pong 1
+Black(21): go
+              time surplus   9:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(20): ?
+Black(20): ping 1
+              time=0.02  mat=2  n=10552  fh=91%  nps=1.0M
+              ext-> check=55 1rep=0 mate=0 pp=0 reduce=3K/370
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(21): Bc5
+              time used:   0.02
+pong 1
+White(22): force
+White(22): Rec1
+Black(22): ping 1
+pong 1
+Black(22): go
+              time surplus  10:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(21): ?
+Black(21): ping 1
+              time=0.02  mat=2  n=10758  fh=89%  nps=1.0M
+              ext-> check=170 1rep=4 mate=0 pp=0 reduce=4K/400
+              predicted=0  evals=8K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(22): Bxf2+
+              time used:   0.02
+pong 1
+White(23): remove
+White(22): force
+White(22): Re2
+Black(22): ping 1
+pong 1
+Black(22): go
+              time surplus  10:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(21): ?
+Black(21): ping 1
+              time=0.02  mat=2  n=11051  fh=90%  nps=1.0M
+              ext-> check=210 1rep=0 mate=0 pp=0 reduce=4K/549
+              predicted=0  evals=8K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(22): Rxe2
+              time used:   0.02
+pong 1
+White(23): force
+White(23): Nxe2
+Black(23): ping 1
+pong 1
+Black(23): go
+              time surplus  10:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(22): ?
+Black(22): ping 1
+              time=0.01  mat=2  n=10444  fh=90%  nps=1.0M
+              ext-> check=196 1rep=2 mate=0 pp=0 reduce=4K/401
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(23): Bd5
+              time used:   0.01
+pong 1
+White(24): remove
+White(23): remove
+White(22): force
+White(22): Ne4
+Black(22): ping 1
+pong 1
+Black(22): go
+              time surplus  10:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(21): ?
+Black(21): ping 1
+              time=0.01  mat=2  n=10746  fh=91%  nps=1.0M
+              ext-> check=395 1rep=17 mate=0 pp=0 reduce=4K/537
+              predicted=0  evals=8K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(22): Kd7
+              time used:   0.01
+pong 1
+White(23): force
+White(23): Nxc5
+Black(23): ping 1
+pong 1
+Black(23): go
+              time surplus  10:59  time limit 0.10 (+0.00) (0.10) [easy move]
+              depth   time  score   variation (1)
+Black(22): ?
+Black(22): ping 1
+              time=0.02  mat=5  n=10275  fh=87%  nps=1.0M
+              ext-> check=427 1rep=0 mate=0 pp=0 reduce=5K/717
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(23): Kxc6
+              time used:   0.02
+pong 1
+White(24): force
+White(24): Nxe6
+Black(24): ping 1
+pong 1
+Black(24): go
+              time surplus  11:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(23): ?
+Black(23): ping 1
+              time=0.01  mat=5  n=10510  fh=90%  nps=1.0M
+              ext-> check=376 1rep=3 mate=0 pp=0 reduce=5K/513
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(24): fxe6
+              time used:   0.01
+pong 1
+White(25): force
+White(25): Rab1
+Black(25): ping 1
+pong 1
+Black(25): go
+              time surplus  11:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(24): ?
+Black(24): ping 1
+              time=0.01  mat=2  n=10781  fh=77%  nps=1.0M
+              ext-> check=341 1rep=3 mate=0 pp=0 reduce=5K/497
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(25): Rgb8
+              time used:   0.01
+pong 1
+White(26): force
+White(26): Rxb2
+Black(26): ping 1
+pong 1
+Black(26): go
+              time surplus  12:29  time limit 0.10 (+0.00) (0.10) [easy move]
+              depth   time  score   variation (1)
+Black(25): ?
+Black(25): ping 1
+              time=0.01  mat=7  n=10445  fh=77%  nps=1.0M
+              ext-> check=280 1rep=1 mate=0 pp=0 reduce=5K/1K
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(26): Rxb2
+              time used:   0.01
+pong 1
+White(27): force
+White(27): Be3
+Black(27): ping 1
+pong 1
+Black(27): go
+              time surplus  12:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(26): ?
+Black(26): ping 1
+              time=0.01  mat=2  n=10591  fh=83%  nps=1.0M
+              ext-> check=269 1rep=5 mate=0 pp=0 reduce=4K/1K
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(27): Nxe3
+              time used:   0.01
+pong 1
+White(28): force
+White(28): Rxe3
+Black(28): ping 1
+pong 1
+Black(28): go
+              time surplus  13:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(27): ?
+Black(27): ping 1
+              time=0.01  mat=2  n=10461  fh=68%  nps=1.0M
+              ext-> check=392 1rep=13 mate=0 pp=0 reduce=5K/689
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(28): Kd5
+              time used:   0.01
+pong 1
+White(29): force
+White(29): Re4
+Black(29): ping 1
+pong 1
+Black(29): go
+              time surplus  13:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(28): ?
+Black(28): ping 1
+              time=0.02  mat=2  n=10494  fh=80%  nps=1.0M
+              ext-> check=471 1rep=43 mate=0 pp=0 reduce=4K/582
+              predicted=0  evals=7K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(29): h5
+              time used:   0.02
+pong 1
+White(30): force
+White(30): f3
+Black(30): ping 1
+pong 1
+Black(30): go
+              time surplus  14:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(29): ?
+Black(29): ping 1
+              time=0.02  mat=2  n=10792  fh=85%  nps=1.0M
+              ext-> check=422 1rep=0 mate=0 pp=0 reduce=4K/711
+              predicted=0  evals=8K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(30): Rd2
+              time used:   0.02
+pong 1
+White(31): force
+White(31): Ra4
+Black(31): ping 1
+pong 1
+Black(31): go
+              time surplus  14:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(30): ?
+Black(30): ping 1
+              time=0.01  mat=2  n=10754  fh=85%  nps=1.0M
+              ext-> check=568 1rep=1 mate=0 pp=0 reduce=4K/640
+              predicted=0  evals=8K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(31): Rxd3
+              time used:   0.01
+pong 1
+White(32): force
+White(32): Rxa7
+Black(32): ping 1
+pong 1
+Black(32): go
+              time surplus  15:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(31): ?
+Black(31): ping 1
+              time=0.01  mat=2  n=10752  fh=82%  nps=1.0M
+              ext-> check=585 1rep=0 mate=0 pp=0 reduce=4K/704
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(32): h4
+              time used:   0.01
+pong 1
+White(33): force
+White(33): a5
+Illegal move: a5
+White(33): ping 1
+pong 1
+White(33): force
+White(33): a4
+Black(33): ping 1
+pong 1
+Black(33): go
+              time surplus  15:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(32): ?
+Black(32): ping 1
+              time=0.01  mat=2  n=10682  fh=78%  nps=1.0M
+              ext-> check=614 1rep=10 mate=0 pp=0 reduce=4K/567
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(33): Ra3
+              time used:   0.01
+pong 1
+White(34): force
+White(34): Kf2
+Black(34): ping 1
+pong 1
+Black(34): go
+              time surplus  16:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(33): ?
+Black(33): ping 1
+              time=0.01  mat=2  n=10902  fh=73%  nps=1.0M
+              ext-> check=761 1rep=5 mate=0 pp=0 reduce=4K/689
+              predicted=0  evals=7K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(34): Kxe5
+              time used:   0.01
+pong 1
+White(35): remove
+White(34): remove
+White(33): force
+White(33): Ra5
+Black(33): ping 1
+pong 1
+Black(33): go
+              time surplus  15:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(32): ?
+Black(32): ping 1
+              time=0.01  mat=2  n=10873  fh=73%  nps=1.0M
+              ext-> check=618 1rep=19 mate=0 pp=0 reduce=4K/629
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(33): c5
+              time used:   0.01
+pong 1
+White(34): force
+White(34): f4
+Black(34): ping 1
+pong 1
+Black(34): go
+              time surplus  16:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(33): ?
+Black(33): ping 1
+              time=0.02  mat=2  n=10895  fh=81%  nps=1.0M
+              ext-> check=506 1rep=20 mate=0 pp=0 reduce=4K/873
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(34): Rd4
+              time used:   0.02
+pong 1
+White(35): remove
+White(34): force
+White(34): Ra4
+Black(34): ping 1
+pong 1
+Black(34): go
+              time surplus  16:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(33): ?
+Black(33): ping 1
+              time=0.02  mat=2  n=10646  fh=79%  nps=1.0M
+              ext-> check=641 1rep=7 mate=0 pp=0 reduce=4K/681
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(34): Kxe5
+              time used:   0.02
+pong 1
+White(35): force
+White(35): Rxh4
+Black(35): ping 1
+pong 1
+Black(35): go
+              time surplus  16:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(34): ?
+Black(34): ping 1
+              time=0.01  mat=2  n=10619  fh=71%  nps=1.0M
+              ext-> check=801 1rep=2 mate=0 pp=0 reduce=5K/859
+              predicted=0  evals=6K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(35): Rxa3
+              time used:   0.01
+pong 1
+White(36): force
+White(36): Rh5
+Black(36): ping 1
+pong 1
+Black(36): go
+              time surplus  17:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(35): ?
+Black(35): ping 1
+              time=0.01  mat=1  n=10517  fh=66%  nps=1.0M
+              ext-> check=799 1rep=8 mate=0 pp=0 reduce=5K/716
+              predicted=0  evals=6K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(36): Kd4
+              time used:   0.01
+pong 1
+White(37): force
+White(37): g4
+Black(37): ping 1
+pong 1
+Black(37): go
+              time surplus  17:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(36): ?
+Black(36): ping 1
+              time=0.01  mat=1  n=10811  fh=73%  nps=1.0M
+              ext-> check=524 1rep=0 mate=0 pp=0 reduce=5K/1K
+              predicted=0  evals=6K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(37): Rxf3
+              time used:   0.01
+pong 1
+White(38): remove
+White(37): force
+White(37): Kf2
+Black(37): ping 1
+pong 1
+Black(37): go
+              time surplus  17:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(36): ?
+Black(36): ping 1
+              time=0.01  mat=1  n=10665  fh=64%  nps=1.0M
+              ext-> check=842 1rep=0 mate=0 pp=0 reduce=5K/907
+              predicted=0  evals=6K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(37): c4
+              time used:   0.01
+pong 1
+White(38): force
+White(38): g4
+Black(38): ping 1
+pong 1
+Black(38): go
+              time surplus  18:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(37): ?
+Black(37): ping 1
+              time=0.02  mat=1  n=10732  fh=67%  nps=1.0M
+              ext-> check=496 1rep=0 mate=0 pp=0 reduce=5K/967
+              predicted=0  evals=6K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(38): Ra7
+              time used:   0.02
+pong 1
+White(39): force
+White(39): g5
+Black(39): ping 1
+pong 1
+Black(39): go
+              time surplus  18:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(38): ?
+Black(38): ping 1
+              time=0.01  mat=1  n=10612  fh=72%  nps=1.0M
+              ext-> check=515 1rep=3 mate=0 pp=0 reduce=5K/789
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(39): c3
+              time used:   0.01
+pong 1
+White(40): force
+White(40): Rh4
+Black(40): ping 1
+pong 1
+Black(40): go
+              time surplus  19:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(39): ?
+Black(39): ping 1
+              time=0.01  mat=1  n=10609  fh=83%  nps=1.0M
+              ext-> check=501 1rep=4 mate=0 pp=0 reduce=5K/838
+              predicted=0  evals=6K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(40): Kd3
+              time used:   0.01
+pong 1
+White(41): force
+White(41): Rb4
+Black(41): ping 1
+pong 1
+Black(41): go
+              time surplus  19:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(40): ?
+Black(40): ping 1
+              time=0.01  mat=1  n=11114  fh=81%  nps=1.0M
+              ext-> check=558 1rep=7 mate=0 pp=0 reduce=5K/775
+              predicted=0  evals=7K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(41): c2
+              time used:   0.01
+pong 1
+White(42): remove
+White(41): force
+White(41): Re4
+Black(41): ping 1
+pong 1
+Black(41): go
+              time surplus  19:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(40): ?
+Black(40): ping 1
+              time=0.02  mat=1  n=11075  fh=80%  nps=1.0M
+              ext-> check=649 1rep=26 mate=0 pp=0 reduce=5K/1K
+              predicted=0  evals=7K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(41): Ra2+
+              time used:   0.02
+pong 1
+White(42): force
+White(42): Kf1
+Black(42): ping 1
+pong 1
+Black(42): go
+              time surplus  20:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(41): ?
+Black(41): ping 1
+              time=0.01  mat=1  n=11177  fh=89%  nps=1.0M
+              ext-> check=777 1rep=79 mate=0 pp=0 reduce=5K/1K
+              predicted=0  evals=7K  50move=5  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(42): c2
+              time used:   0.01
+pong 1
+White(43): force
+White(43): Re1
+Black(43): ping 1
+pong 1
+Black(43): go
+              time surplus  20:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(42): ?
+Black(42): ping 1
+              time=0.01  mat=1  n=11377  fh=90%  nps=1.0M
+              ext-> check=558 1rep=43 mate=0 pp=0 reduce=6K/1K
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(43): Rb2
+              time used:   0.01
+pong 1
+White(44): force
+White(44): g6
+Black(44): ping 1
+pong 1
+Black(44): go
+              time surplus  21:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(43): ?
+Black(43): ping 1
+              time=0.01  mat=1  n=11099  fh=90%  nps=1.0M
+              ext-> check=418 1rep=29 mate=0 pp=0 reduce=6K/859
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(44): Rb1
+              time used:   0.01
+pong 1
+White(45): force
+White(45): g7
+Black(45): ping 1
+pong 1
+Black(45): go
+              time surplus  21:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(44): ?
+Black(44): ping 1
+              time=0.01  mat=1  n=11235  fh=94%  nps=1.0M
+              ext-> check=922 1rep=63 mate=0 pp=0 reduce=6K/1K
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(45): Rxe1+
+              time used:   0.01
+pong 1
+White(46): force
+White(46): Kxe1
+Black(46): ping 1
+pong 1
+Black(46): go
+              time surplus  22:28  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(45): ?
+Black(45): ping 1
+              time=0.01  mat=1  n=10847  fh=95%  nps=1.0M
+              ext-> check=1K 1rep=52 mate=0 pp=0 reduce=7K/1K
+              predicted=0  evals=7K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(46): c1=Q+
+              time used:   0.01
+pong 1
+White(47): force
+White(47): Kf2
+Black(47): ping 1
+pong 1
+Black(47): go
+              time surplus  22:58  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(46): ?
+Black(46): ping 1
+              time=0.01  mat=-7  n=10817  fh=92%  nps=1.0M
+              ext-> check=1K 1rep=44 mate=0 pp=0 reduce=6K/943
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(47): Qb2+
+              time used:   0.01
+pong 1
+White(48): remove
+White(47): force
+White(47): Kf2
+Black(47): ping 1
+pong 1
+Black(47): go
+              time surplus  22:58  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(46): ?
+Black(46): ping 1
+              time=0.00  mat=-7  n=10634  fh=92%  nps=1.0M
+              ext-> check=1K 1rep=30 mate=0 pp=0 reduce=7K/2K
+              predicted=0  evals=7K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.00
+Black(47): Qb2+
+              time used:   0.00
+pong 1

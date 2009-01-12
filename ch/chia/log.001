@@ -1,0 +1,608 @@
+
+Crafty v22.1 (1 cpus)
+
+White(1): xboard
+White(1): st 0.1
+search time set to 0.10.
+White(1): skill 50
+skill level set to 50%
+White(1): e4
+              time used:  33.73
+              time surplus   0.00  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+              time=0.10  mat=0  n=23284  fh=75%  nps=1.0M
+              ext-> check=135 1rep=6 mate=0 pp=0 reduce=11K/2K
+              predicted=0  evals=17K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.10
+Black(1): Nc6
+              time used:   0.10
+feature done=1
+White(2): ?
+White(2): Nf3 [pondering]
+              time surplus  29.90  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (4)
+                8     1.46   0.41   2. ... Nf6 3. Nc3 d5 4. exd5 Nxd5 5.
+                                    Bc4 Nxc3 6. bxc3
+White(2): Nf3
+predicted move made.
+White(2): ?
+              time=1.74  mat=0  n=465032  fh=78%  nps=267K
+              ext-> check=4K 1rep=110 mate=3 pp=0 reduce=239K/37K
+              predicted=1  evals=364K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.74
+              time used:   1.74
+Black(2): Nf6
+              time used:   0.00
+White(3): Nc3 [pondering]
+              time surplus  59.90  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (7)
+                8     1.48   0.34   3. ... e5 4. Bb5 Bb4 5. a3 Bxc3 6.
+                                    dxc3 Nxe4 7. Bxc6 bxc6 8. Nxe5
+                8->   1.92   0.34   3. ... e5 4. Bb5 Bb4 5. a3 Bxc3 6.
+                                    dxc3 Nxe4 7. Bxc6 bxc6 8. Nxe5
+                9     5.81   0.24   3. ... e5 4. Bc4 Bc5 5. O-O O-O 6.
+                                    d3 d6 7. Be3 Bxe3 8. fxe3
+                9->   6.95   0.24   3. ... e5 4. Bc4 Bc5 5. O-O O-O 6.
+                                    d3 d6 7. Be3 Bxe3 8. fxe3
+White(3): e5
+              time used:   7.22
+              time surplus  59.90  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(2): ?
+              time=0.01  mat=0  n=2876  fh=80%  nps=1.0M
+              ext-> check=5 1rep=0 mate=0 pp=0 reduce=1K/204
+              predicted=1  evals=2K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(3): Ne4
+              time used:   0.01
+White(4): Nc3 [pondering]
+              time surplus   1:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (3)
+                8     0.68   0.56   4. ... Nxc3 5. dxc3 d6 6. Bb5 Bg4 7.
+                                    Bxc6+ bxc6 8. O-O h5
+                8     1.57   0.42   4. ... d5 5. Bb5 Bg4 6. h3 Nxc3 7.
+                                    dxc3 Bxf3 8. Qxf3
+                8->   1.93   0.42   4. ... d5 5. Bb5 Bg4 6. h3 Nxc3 7.
+                                    dxc3 Bxf3 8. Qxf3
+                9     3.48   0.55   4. ... d5 5. Bb5 Bg4 6. h3 Nxc3 7.
+                                    dxc3 Bxf3 8. Qxf3 Rc8 9. Bxc6+ bxc6
+                9     4.94   0.45   4. ... Nxc3 5. dxc3 d6 6. Bb5 Bg4 7.
+                                    h3 Bf5 8. Bxc6+ bxc6 9. O-O dxe5 10.
+                                    Nxe5 Qxd1 11. Rxd1 Bxc2
+                9->   5.91   0.45   4. ... Nxc3 5. dxc3 d6 6. Bb5 Bg4 7.
+                                    h3 Bf5 8. Bxc6+ bxc6 9. O-O dxe5 10.
+                                    Nxe5 Qxd1 11. Rxd1 Bxc2
+               10    10.86   0.66   4. ... Nxc3 5. dxc3 d6 6. Bb5 Bd7 7.
+                                    exd6 exd6 8. O-O Ne5 9. Qe2 Bxb5 10.
+                                    Qxb5+
+               10    18.34   0.51   4. ... d5 5. Bb5 e6 6. O-O Bd7 7. Qe2
+                                    a6 8. Bxc6 Bxc6 9. Nxe4 dxe4
+White(4): Nc3
+predicted move made.
+White(4): ?
+              time=21.70  mat=0  n=6516065  fh=85%  nps=300K
+              ext-> check=88K 1rep=2K mate=290 pp=0 reduce=3.4M/504K
+              predicted=2  evals=5.5M  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=21.70
+              time used:  21.70
+Black(4): d5
+              time used:   0.00
+White(5): Bb5 [pondering]
+              time surplus   1:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (9)
+                9     3.37   0.48   5. ... e6 6. Qe2 Nxc3 7. dxc3 Bd7 8.
+                                    Be3 Be7 9. O-O-O O-O
+                9     8.82   0.44   5. ... Bd7 6. Bxc6 Bxc6 7. O-O e6 8.
+                                    Nd4 Nxc3 9. dxc3 Bd7
+                9->   9.36   0.44   5. ... Bd7 6. Bxc6 Bxc6 7. O-O e6 8.
+                                    Nd4 Nxc3 9. dxc3 Bd7
+White(5): Bb5
+predicted move made.
+White(5): ?
+              time=13.85  mat=0  n=4330005  fh=86%  nps=312K
+              ext-> check=48K 1rep=1K mate=33 pp=0 reduce=2.0M/336K
+              predicted=3  evals=3.7M  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=13.85
+              time used:  13.85
+Black(5): Bd7
+              time used:   0.00
+White(6): Bxc6 [pondering]
+              time surplus   2:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (8)
+                9     0.95   0.37   6. ... Bxc6 7. O-O e6 8. Nd4 Nxc3 9.
+                                    dxc3 Bd7 10. Bf4 Bc5
+                9->   1.64   0.37   6. ... Bxc6 7. O-O e6 8. Nd4 Nxc3 9.
+                                    dxc3 Bd7 10. Bf4 Bc5
+               10     4.05   0.52   6. ... Bxc6 7. O-O Nxc3 8. dxc3 Bb5
+                                    9. Re1 Qd7 10. Ng5 e6 11. Bf4
+White(6): d3
+              time used:   5.34
+              time surplus   2:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(5): ?
+              time=0.01  mat=0  n=5342  fh=94%  nps=1.0M
+              ext-> check=9 1rep=2 mate=0 pp=0 reduce=1K/201
+              predicted=3  evals=2K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(6): Nxc3
+              time used:   0.01
+White(7): bxc3 [pondering]
+              time surplus   2:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (3)
+                8->   2.09   0.37   7. ... Nxe5 8. Nxe5 Bxb5 9. Qf3 Qd6
+                                    10. Qxf7+ Kd8 11. f4 Bd7
+                9     2.55   0.43   7. ... Nxe5 8. Nxe5 Bxb5 9. Qf3 Qd6
+                                    10. Qxf7+ Kd8 11. f4 Be8 12. Qf5
+White(7): bxc3
+predicted move made.
+White(7): ?
+              time=3.87  mat=0  n=1229612  fh=83%  nps=317K
+              ext-> check=10K 1rep=270 mate=22 pp=0 reduce=598K/88K
+              predicted=4  evals=1.0M  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=3.87
+              time used:   3.87
+Black(7): Nxe5
+              time used:   0.00
+White(8): Nxe5 [pondering]
+              time surplus   3:29  time limit 0.10 (+0.00) (0.10) [easy move]
+              depth   time  score   variation (8)
+                9     1.20   0.45   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf5 Be8 12. Bg5 Bg6 13. Nxg6 hxg6
+                9->   1.42   0.45   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf5 Be8 12. Bg5 Bg6 13. Nxg6 hxg6
+               10     4.69   0.52   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf4 Be8 12. O-O e6 13. c4 dxc4
+                                    14. dxc4
+               10->   5.18   0.52   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf4 Be8 12. O-O e6 13. c4 dxc4
+                                    14. dxc4
+               11    11.69   0.53   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf4 Be8 12. O-O e6 13. c4 Bg6 14.
+                                    Bd2 dxc4 15. Nxc4 Qxf4 16. Bxf4
+               11->  13.36   0.53   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf4 Be8 12. O-O e6 13. c4 Bg6 14.
+                                    Bd2 dxc4 15. Nxc4 Qxf4 16. Bxf4
+               12    25.98   0.72   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf4 Be8 12. O-O e6 13. Rb1 Rb8
+                                    14. Nf7+ Bxf7 15. Qxf7
+               12->  30.60   0.72   8. ... Bxb5 9. Qf3 Qd6 10. Qxf7+ Kd8
+                                    11. Qf4 Be8 12. O-O e6 13. Rb1 Rb8
+                                    14. Nf7+ Bxf7 15. Qxf7
+White(8): Bf4
+              time used:  33.38
+              time surplus   3:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(7): ?
+              time=0.02  mat=-1  n=4481  fh=90%  nps=1.0M
+              ext-> check=61 1rep=0 mate=0 pp=0 reduce=2K/251
+              predicted=4  evals=3K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(8): Nxf3+
+              time used:   0.02
+White(9): Qxf3 [pondering]
+              time surplus   3:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (3)
+                8     0.67  -2.19   9. ... Bxb5 10. O-O e6 11. c4 Ba4 12.
+                                    cxd5 Qxd5 13. Qd1
+                8->   0.78  -2.19   9. ... Bxb5 10. O-O e6 11. c4 Ba4 12.
+                                    cxd5 Qxd5 13. Qd1
+                9     2.69  -2.19   9. ... Bxb5 10. c4 Bc6 11. cxd5 Bxd5
+                                    12. Qg3 Rc8 13. c4 Bc6
+                9->   2.95  -2.19   9. ... Bxb5 10. c4 Bc6 11. cxd5 Bxd5
+                                    12. Qg3 Rc8 13. c4 Bc6
+White(9): Qxf3
+predicted move made.
+White(9): ?
+              time=8.83  mat=-1  n=3681097  fh=86%  nps=416K
+              ext-> check=55K 1rep=2K mate=171 pp=0 reduce=2.4M/374K
+              predicted=5  evals=3.1M  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=8.83
+              time used:   8.83
+Black(9): Bxb5
+              time used:   0.00
+White(10): c4 [pondering]
+              time surplus   4:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (8)
+                9     0.61  -2.24   10. ... Bc6 11. cxd5 Bxd5 12. Qg3 Bxg2
+                                    13. Qxg2 Qd4 14. Rb1 Qxf4 15. Rxb7
+                9->   1.72  -2.24   10. ... Bc6 11. cxd5 Bxd5 12. Qg3 Bxg2
+                                    13. Qxg2 Qd4 14. Rb1 Qxf4 15. Rxb7
+               10     4.83  -2.27   10. ... Bc6 11. cxd5 Bxd5 12. Qg3 Qd7
+                                    13. O-O O-O-O 14. Be3 Qc6 15. Bxa7
+                                    Qxc2
+               10->   7.58  -2.27   10. ... Bc6 11. cxd5 Bxd5 12. Qg3 Qd7
+                                    13. O-O O-O-O 14. Be3 Qc6 15. Bxa7
+                                    Qxc2
+               11    13.22  -2.29   10. ... Bc6 11. cxd5 Bxd5 12. Qg3 Qd7
+                                    13. O-O O-O-O 14. Be3 Qa4 15. c4 Bc6
+White(10): Rb1
+              time used:  16.32
+              time surplus   4:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(9): ?
+              time=0.02  mat=-4  n=4209  fh=76%  nps=1.0M
+              ext-> check=18 1rep=1 mate=0 pp=0 reduce=2K/336
+              predicted=5  evals=3K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(10): Qd7
+              time used:   0.02
+White(11): Bxc7 [pondering]
+              time surplus   4:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (3)
+                8     0.56  -2.90   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Kxd4 Qa4+ 16.
+                                    Kc5
+                8->   1.07  -2.90   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Kxd4 Qa4+ 16.
+                                    Kc5
+                9     1.54  -3.19   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Ke4 Qc6+ 16.
+                                    Rd5 Rc8
+                9->   2.81  -3.19   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Ke4 Qc6+ 16.
+                                    Rd5 Rc8
+               10     4.11  -3.05   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Kf4 Qd2+ 16.
+                                    Kg4 Rb8 17. Rxb7 Rxb7 18. Qxb7 Qxa2
+               10->   7.64  -3.05   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Kf4 Qd2+ 16.
+                                    Kg4 Rb8 17. Rxb7 Rxb7 18. Qxb7 Qxa2
+               11    10.81  -3.13   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Kf4 Qc7+ 16.
+                                    Kg5 f6+ 17. Kg4 O-O-O 18. Kh5
+               11->  17.89  -3.13   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Kf4 Qc7+ 16.
+                                    Kg5 f6+ 17. Kg4 O-O-O 18. Kh5
+               12    26.88  -3.21   11. ... Qxc7 12. Rxb5 Qxc3+ 13. Ke2
+                                    Qxc2+ 14. Ke3 d4+ 15. Kf4 Qc7+ 16.
+                                    Kg5 f6+ 17. Kg4 O-O-O 18. Rhb1 Qd7+
+White(11): O-O
+              time used:  33.54
+              time surplus   4:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(10): ?
+              time=0.01  mat=-4  n=4404  fh=71%  nps=1.0M
+              ext-> check=19 1rep=0 mate=0 pp=0 reduce=2K/229
+              predicted=5  evals=3K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(11): c5
+              time used:   0.01
+White(12): Rfd1 [pondering]
+              time surplus   5:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                6->   0.67  -2.31   12. ... e6 13. c4 Ba6 14. cxd5 Qxd5
+                                    15. Qxd5 exd5
+                7     0.80  -2.32   12. ... e6 13. c4 Ba6 14. Be5 Rd8 15.
+                                    cxd5 Qxd5
+                7->   1.31  -2.32   12. ... e6 13. c4 Ba6 14. Be5 Rd8 15.
+                                    cxd5 Qxd5
+                8     1.84  -2.32   12. ... e6 13. c4 Bc6 14. Qh5 h6 15.
+                                    Qe5 Qd8 16. cxd5 Bxd5
+                8     2.50  -2.34   12. ... Ba4 13. Rd2 e6 14. Bg5 Qc6
+                                    15. Qf4 b5 16. c4 bxc4 17. dxc4
+                8->   3.18  -2.34   12. ... Ba4 13. Rd2 e6 14. Bg5 Qc6
+                                    15. Qf4 b5 16. c4 bxc4 17. dxc4
+                9     5.18  -2.34   12. ... Ba4 13. Rd2 e6 14. Bg5 b5 15.
+                                    c4 f6 16. Bh4 bxc4 17. dxc4
+                9->  23.65  -2.34   12. ... Ba4 13. Rd2 e6 14. Bg5 b5 15.
+                                    c4 f6 16. Bh4 bxc4 17. dxc4
+               10    29.32  -2.34   12. ... Ba4 13. Rd2 e6 14. c4 O-O-O
+                                    15. cxd5 Qxd5 16. Qxd5 Rxd5 17. h4
+White(12): Re1
+Illegal move: Re1
+White(12): ?
+White(12): Rfe1
+              time used:  39.72
+              time surplus   5:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(11): ?
+              time=0.01  mat=-4  n=4390  fh=76%  nps=1.0M
+              ext-> check=23 1rep=0 mate=0 pp=0 reduce=2K/172
+              predicted=5  evals=3K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(12): O-O-O
+              time used:   0.01
+White(13): Re5 [pondering]
+              time surplus   5:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                7     0.45  -2.50   13. ... f6 14. Re2 e5 15. Bg3 Re8 16.
+                                    Bh4 Be7
+                7->   0.91  -2.50   13. ... f6 14. Re2 e5 15. Bg3 Re8 16.
+                                    Bh4 Be7
+                8     1.24  -2.48   13. ... f6 14. Re2 e5 15. Bg3 c4 16.
+                                    Qe3 a6 17. dxc4 dxc4
+                8     2.05  -2.51   13. ... e6 14. Re2 c4 15. Qe3 a5 16.
+                                    dxc4 Bxc4 17. Bg5 Bxe2 18. Bxd8 Kxd8
+                                    19. Qxe2
+                8->   2.62  -2.51   13. ... e6 14. Re2 c4 15. Qe3 a5 16.
+                                    dxc4 Bxc4 17. Bg5 Bxe2 18. Bxd8 Kxd8
+                                    19. Qxe2
+                9     6.42  -2.53   13. ... e6 14. Re2 Ba6 15. Bg3 c4 16.
+                                    Be5 h5 17. Bf4 Bb5
+                9->   8.80  -2.53   13. ... e6 14. Re2 Ba6 15. Bg3 c4 16.
+                                    Be5 h5 17. Bf4 Bb5
+               10    16.50  -2.52   13. ... e6 14. Re2 Ba6 15. Bg3 c4 16.
+                                    Be5 h5 17. Bf4 Be7 18. dxc4 dxc4
+               10->  26.96  -2.52   13. ... e6 14. Re2 Ba6 15. Bg3 c4 16.
+                                    Be5 h5 17. Bf4 Be7 18. dxc4 dxc4
+               11    47.25  -2.52   13. ... e6 14. Re2 Ba6 15. Bg3 c4 16.
+                                    Be5 Bb5 17. Bf4 h6 18. Bg3 Rg8
+White(13): Qe2
+              time used:  50.69
+              time surplus   5:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(12): ?
+              time=0.01  mat=-4  n=4632  fh=70%  nps=1.0M
+              ext-> check=10 1rep=0 mate=0 pp=0 reduce=2K/183
+              predicted=5  evals=4K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(13): h5
+              time used:   0.01
+White(14): c4 [pondering]
+              time surplus   6:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                7->   0.74  -1.77   14. ... Ba4 15. Qe5 Qd6 16. Qf5+ e6
+                                    17. Qxf7 Rd7 18. Qe8+
+                8     1.03  -1.53   14. ... Ba4 15. Qe5 Qd6 16. Qf5+ e6
+                                    17. Qxf7 Qd7 18. Qxe6 Qxe6 19. Rxe6
+                                    dxc4
+                8->   1.52  -1.53   14. ... Ba4 15. Qe5 Qd6 16. Qf5+ e6
+                                    17. Qxf7 Qd7 18. Qxe6 Qxe6 19. Rxe6
+                                    dxc4
+                9     2.27  -1.62   14. ... Ba4 15. Qe5 Qd6 16. Qf5+ e6
+                                    17. Qxf7 Qd7 18. Qxd7+ Rxd7 19. Rxe6
+                                    dxc4
+                9->   3.62  -1.62   14. ... Ba4 15. Qe5 Qd6 16. Qf5+ e6
+                                    17. Qxf7 Qd7 18. Qxd7+ Rxd7 19. Rxe6
+                                    dxc4
+               10     6.78  -1.66   14. ... Ba4 15. Qe5 Qd6 16. Qf5+ e6
+                                    17. Qxf7 Qe7 18. Qxe6+ Qxe6 19. Rxe6
+                                    dxc4
+White(14): Qe5
+              time used:   7.66
+              time surplus   6:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(13): ?
+              time=0.02  mat=-4  n=4246  fh=86%  nps=1.0M
+              ext-> check=227 1rep=11 mate=0 pp=0 reduce=2K/218
+              predicted=5  evals=3K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(14): Qc6
+              time used:   0.02
+White(15): Qb8+ [pondering]
+              time surplus   6:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                8     0.42  -1.30   15. ... Kd7 16. Qxa7 Ke8 17. Qa5 Ba6
+                                    18. Rb6 Qc8 19. Bd6
+                8->   0.42  -1.30   15. ... Kd7 16. Qxa7 Ke8 17. Qa5 Ba6
+                                    18. Rb6 Qc8 19. Bd6
+                9     1.39  -1.54   15. ... Kd7 16. Qxa7 Ke8 17. Qa5 Ba6
+                                    18. Rb6 Qc8 19. Bd6 e6
+                9->   1.39  -1.54   15. ... Kd7 16. Qxa7 Ke8 17. Qa5 Ba6
+                                    18. Rb6 Qc8 19. Bd6 e6
+               10     3.44  -1.32   15. ... Kd7 16. Qxa7 Ke8 17. Qa5 Ba6
+                                    18. Rb6 Qc8 19. Bg5 f6 20. Bf4
+               10->   3.44  -1.32   15. ... Kd7 16. Qxa7 Ke8 17. Qa5 Ba6
+                                    18. Rb6 Qc8 19. Bg5 f6 20. Bf4
+White(15): Re3
+              time used:  10.18
+              time surplus   6:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(14): ?
+              time=0.02  mat=-4  n=5292  fh=93%  nps=1.0M
+              ext-> check=247 1rep=39 mate=0 pp=0 reduce=2K/189
+              predicted=5  evals=4K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(15): d4
+              time used:   0.02
+White(16): cxd4 [pondering]
+              time surplus   7:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                7     0.60  -0.65   16. ... cxd4 17. Rxb5 dxe3 18. Rc5
+                                    exf2+ 19. Kxf2 Kd7 20. Rxc6 Kxc6
+                7->   1.28  -0.65   16. ... cxd4 17. Rxb5 dxe3 18. Rc5
+                                    exf2+ 19. Kxf2 Kd7 20. Rxc6 Kxc6
+                8     1.66  -0.35   16. ... cxd4 17. Rxb5 dxe3 18. Rc5
+                                    exf2+ 19. Kxf2 Kd7 20. Rxc6 Kxc6
+                8->   5.31  -0.35   16. ... cxd4 17. Rxb5 dxe3 18. Rc5
+                                    exf2+ 19. Kxf2 Kd7 20. Rxc6 Kxc6
+                9     6.35  -0.40   16. ... cxd4 17. Rxb5 dxe3 18. Rc5
+                                    exf2+ 19. Kxf2 Kd7 20. Rxc6 Kxc6 21.
+                                    Ke3
+White(16): cxd4
+predicted move made.
+White(16): ?
+              time=12.78  mat=-3  n=6053064  fh=91%  nps=473K
+              ext-> check=245K 1rep=28K mate=1K pp=0 reduce=3.5M/571K
+              predicted=6  evals=5.3M  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=12.78
+              time used:  12.78
+Black(16): cxd4
+              time used:   0.00
+White(17): Rxb5 [pondering]
+              time surplus   7:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (8)
+                8->   1.56   0.39   17. ... dxe3 18. Rc5 exf2+ 19. Kxf2
+                                    Rd6 20. Rxc6+ Rxc6 21. Qb8+ Kd7 22.
+                                    Qxb7+
+                9     2.12   0.19   17. ... dxe3 18. Rc5 exf2+ 19. Kxf2
+                                    Qxc5+ 20. Qxc5+ Kd7 21. Qc7+ Ke8 22.
+                                    Qxb7 Rd4
+                9->   2.95   0.19   17. ... dxe3 18. Rc5 exf2+ 19. Kxf2
+                                    Qxc5+ 20. Qxc5+ Kd7 21. Qc7+ Ke8 22.
+                                    Qxb7 Rd4
+               10     4.26   0.35   17. ... dxe3 18. Rc5 exf2+ 19. Kxf2
+                                    Rd6 20. Rxc6+ bxc6 21. Qf5+ Rd7 22.
+                                    Qxf7 e5 23. Qe8+
+               10->   8.99   0.35   17. ... dxe3 18. Rc5 exf2+ 19. Kxf2
+                                    Rd6 20. Rxc6+ bxc6 21. Qf5+ Rd7 22.
+                                    Qxf7 e5 23. Qe8+
+               11    13.14   0.40   17. ... dxe3 18. Rc5 exf2+ 19. Kxf2
+                                    Rd6 20. Rxc6+ bxc6 21. Qf5+ Re6 22.
+                                    Qxf7 Kd7 23. Kf3 Re1
+White(17): Re4
+              time used:  14.65
+              time surplus   7:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(16): ?
+              time=0.01  mat=-4  n=5651  fh=88%  nps=1.0M
+              ext-> check=106 1rep=23 mate=0 pp=0 reduce=2K/195
+              predicted=6  evals=4K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(17): Rd5
+              time used:   0.01
+White(18): Qb8+ [pondering]
+              time surplus   8:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (3)
+                7     0.50  -1.28   18. ... Kd7 19. Qxa7 Qa6 20. Qb8 e6
+                                    21. Re5 Rxe5 22. Bxe5
+                7->   0.50  -1.28   18. ... Kd7 19. Qxa7 Qa6 20. Qb8 e6
+                                    21. Re5 Rxe5 22. Bxe5
+                8     1.23  -1.29   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6
+                8->   1.23  -1.29   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6
+                9     3.95  -1.38   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6 23. Qc7+
+                9->   3.95  -1.38   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6 23. Qc7+
+               10    11.17  -1.38   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6 23. Qc7+
+                                    Ke8
+               10->  11.17  -1.38   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6 23. Qc7+
+                                    Ke8
+               11    24.55  -1.27   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6 23. Qc7+
+                                    Ke8 24. Qc8+ Qd8 25. Qxd8+ Kxd8
+               11->  24.55  -1.27   18. ... Kd7 19. Qxa7 e6 20. Rxd4 Bc5
+                                    21. Rxd5+ Qxd5 22. Qa5 Bc6 23. Qc7+
+                                    Ke8 24. Qc8+ Qd8 25. Qxd8+ Kxd8
+White(18): Qb8
+predicted move made.
+White(18): ?
+              time=27.81  mat=-4  n=13774523  fh=92%  nps=495K
+              ext-> check=747K 1rep=38K mate=3K pp=0 reduce=8.1M/1.6M
+              predicted=7  evals=11.8M  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=27.81
+              time used:  27.81
+Black(18): Kd7
+              time used:   0.01
+White(19): Qxa7 [pondering]
+              time surplus   8:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (10)
+White(19): a4
+              time used:   4.07
+              time surplus   8:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(18): ?
+              time=0.02  mat=-4  n=5917  fh=95%  nps=1.0M
+              ext-> check=229 1rep=9 mate=0 pp=0 reduce=2K/175
+              predicted=7  evals=4K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(19): Ba6
+              time used:   0.02
+White(20): Qxa7 [pondering]
+              time surplus   9:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                6     0.63  -2.36   20. ... Qxc2 21. Rxb7+ Bxb7 22. Qxb7+
+                                    Ke8 23. Qxd5 Qd1+ 24. Re1 Qxe1#
+                6->   0.66  -2.36   20. ... Qxc2 21. Rxb7+ Bxb7 22. Qxb7+
+                                    Ke8 23. Qxd5 Qd1+ 24. Re1 Qxe1#
+                7     0.90  -2.57   20. ... Qxc2 21. Rxb7+ Bxb7 22. Qxb7+
+                                    Ke8 23. Qxd5 Qd1+ 24. Re1 Qxe1#
+                7->   1.35  -2.57   20. ... Qxc2 21. Rxb7+ Bxb7 22. Qxb7+
+                                    Ke8 23. Qxd5 Qd1+ 24. Re1 Qxe1#
+                8     1.39     +1   20. ... Qxc2
+                8     1.54  -1.65   20. ... Qxc2 21. Rxb7+ Bxb7 22. Qxb7+
+                                    Ke8 23. Qb8+ Rd8 24. Qb5+ Rd7 25. Rxd4
+                8     2.55  -2.70   20. ... e5 21. Rb6 Qxc2 22. Rxb7+ Bxb7
+                                    23. Qxb7+ Ke6 24. Qa6+ Kf5 25. Bg3
+                8->   3.03  -2.70   20. ... e5 21. Rb6 Qxc2 22. Rxb7+ Bxb7
+                                    23. Qxb7+ Ke6 24. Qa6+ Kf5 25. Bg3
+White(20): Re1
+Illegal move: Re1
+White(20): ?
+                9     6.80  -2.79   20. ... e5 21. Qb8 exf4 22. Qxf4 Kc8
+                                    23. Qxf7 Qxc2 24. Re8+ Rd8 25. Rxd8+
+                                    Kxd8
+                9->   8.63  -2.79   20. ... e5 21. Qb8 exf4 22. Qxf4 Kc8
+                                    23. Qxf7 Qxc2 24. Re8+ Rd8 25. Rxd8+
+                                    Kxd8
+White(20): Rbe1
+              time used:   8.75
+              time surplus   9:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(19): ?
+              time=0.02  mat=-4  n=4681  fh=92%  nps=1.0M
+              ext-> check=197 1rep=28 mate=0 pp=0 reduce=1K/205
+              predicted=7  evals=4K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.02
+Black(20): Qxc2
+              time used:   0.02
+White(21): Qxa7 [pondering]
+              time surplus   9:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                6->   0.50  -2.59   21. ... e6 22. Rxd4 Bc5 23. Rxd5+ exd5
+                                    24. Rc1 Bxa7 25. Rxc2 Bxd3
+                7     0.98  -2.67   21. ... e6 22. Qb6 Qc5 23. Qb3 Qc3
+                                    24. Rb1 Qxb3 25. Rxb3
+                7     1.59  -2.94   21. ... Qxa4 22. Rb1 Ke8 23. Re2 Ra5
+                                    24. Qb8+ Kd7 25. Rd2
+                7->   1.90  -2.94   21. ... Qxa4 22. Rb1 Ke8 23. Re2 Ra5
+                                    24. Qb8+ Kd7 25. Rd2
+                8     2.56  -2.75   21. ... Qxa4 22. Re5 Rxe5 23. Bxe5
+                                    f6 24. Bxd4 Qb3 25. Re3 Bxd3
+                8->   3.72  -2.75   21. ... Qxa4 22. Re5 Rxe5 23. Bxe5
+                                    f6 24. Bxd4 Qb3 25. Re3 Bxd3
+                9     5.60  -2.85   21. ... Qxa4 22. Rc1 f5 23. Re5 Rxe5
+                                    24. Bxe5 Qb4 25. f4 e6 26. Bxd4 Bxd3
+                9->   8.53  -2.85   21. ... Qxa4 22. Rc1 f5 23. Re5 Rxe5
+                                    24. Bxe5 Qb4 25. f4 e6 26. Bxd4 Bxd3
+               10    13.48  -2.90   21. ... Qxa4 22. Rc1 f5 23. Re5 Qb3
+                                    24. Rxd5+ Qxd5 25. Rc7+ Ke6 26. Qb6+
+                                    Kf7 <HT>
+               10->  21.04  -2.90   21. ... Qxa4 22. Rc1 f5 23. Re5 Qb3
+                                    24. Rxd5+ Qxd5 25. Rc7+ Ke6 26. Qb6+
+                                    Kf7 <HT>
+White(21): R1e2
+              time used:  31.60
+              time surplus   9:59  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+Black(20): ?
+              time=0.01  mat=-5  n=4964  fh=89%  nps=1.0M
+              ext-> check=250 1rep=39 mate=0 pp=0 reduce=1K/139
+              predicted=7  evals=4K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.01
+Black(21): Qxd3
+              time used:   0.01
+White(22): Qxa7 [pondering]
+              time surplus  10:29  time limit 0.10 (+0.00) (0.10)
+              depth   time  score   variation (1)
+                7     0.63     -1   22. ... e5!!
+                7     0.79  -4.24   22. ... e5 23. Qb8 f5 24. Rxe5 Rxe5
+                                    25. Qxe5 Qxe2 26. Qxd4+
+                7->   1.02  -4.24   22. ... e5 23. Qb8 f5 24. Rxe5 Rxe5
+                                    25. Qxe5 Qxe2 26. Qxd4+
+                8     1.49  -4.53   22. ... e5 23. Qb8 f5 24. Rxe5 Rxe5
+                                    25. Qxe5 Qxe2 26. Qxd4+ Ke7
+                8->   2.07  -4.53   22. ... e5 23. Qb8 f5 24. Rxe5 Rxe5
+                                    25. Qxe5 Qxe2 26. Qxd4+ Ke7
+                9     3.28  -4.55   22. ... e5 23. Qb8 Bb4 24. Qxh8 Qb1+
+                                    25. Re1 Bxe1 26. f3 Bg3+ 27. Bc1 Qxc1+
+                9->   4.72  -4.55   22. ... e5 23. Qb8 Bb4 24. Qxh8 Qb1+
+                                    25. Re1 Bxe1 26. f3 Bg3+ 27. Bc1 Qxc1+
+               10     6.86     -1   22. ... e5!!
+               10    11.00  -5.12   22. ... e5 23. Bxe5 f5 24. Qb8 fxe4
+                                    25. Re1 Rc5 26. Bf4 g5 27. Be5
+White(22): R2e3
+              time used:  11.58
+              time surplus  10:29  time limit 0.10 (+0.00) (0.10) [easy move]
+              depth   time  score   variation (1)
+              time=0.00  mat=-6  n=3307  fh=100%  nps=1.0M
+              ext-> check=128 1rep=63 mate=0 pp=0 reduce=1K/161
+              predicted=7  evals=2K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.00
+Black(22): Qf1#
+0-1 {Black mates}
+              time used:   0.00

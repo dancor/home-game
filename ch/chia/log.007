@@ -1,0 +1,1414 @@
+
+Crafty v22.1 (1 cpus)
+
+White(1): annotateh 2008-12-20_01.00.58.pgn w 1-999 1 1\nquit
+White(1): e4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               10     1.10   0.13   1. d4 Nf6 2. Nc3 d5 3. Nf3 e6 4. Bg5
+                                    Nc6 5. e3 Bd6 <HT>
+              time=1.10  mat=0  n=278567  fh=85%  nps=253K
+              ext-> check=2K 1rep=92 mate=0 pp=0 reduce=147K/28K
+              predicted=0  evals=200K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.10
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.73  mat=0  n=194896  fh=85%  nps=266K
+              ext-> check=2K 1rep=79 mate=0 pp=0 reduce=100K/18K
+              predicted=0  evals=146K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.73
+Black(1): Nc6
+White(2): Nf3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               10     0.99   0.32   2. Nc3 Nf6 3. Nf3 d5 4. e5 Ne4 5. Bb5
+                                    Nxc3 6. dxc3 Bf5
+              time=1.02  mat=0  n=276395  fh=86%  nps=270K
+              ext-> check=3K 1rep=174 mate=1 pp=0 reduce=143K/24K
+              predicted=0  evals=216K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               10     0.96   0.34   2. Nf3 Nf6 3. e5 Ne4 4. d4 d6 5. Bd3
+                                    <HT>
+               10->   0.96   0.34   2. Nf3 Nf6 3. e5 Ne4 4. d4 d6 5. Bd3
+                                    <HT>
+              time=0.96  mat=0  n=260756  fh=88%  nps=271K
+              ext-> check=2K 1rep=65 mate=0 pp=0 reduce=126K/20K
+              predicted=0  evals=207K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.96
+Black(2): Nf6
+White(3): e5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9->   0.78   0.36   3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 e6 6.
+                                    Bg5 Be7 7. Be3
+               10     0.93   0.51   3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 e6 6.
+                                    Bd3 Be7 7. O-O O-O
+              time=1.01  mat=0  n=304665  fh=90%  nps=301K
+              ext-> check=8K 1rep=626 mate=2 pp=0 reduce=162K/21K
+              predicted=0  evals=246K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(3): Ng4
+White(4): d4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+              time=1.01  mat=0  n=274656  fh=89%  nps=271K
+              ext-> check=2K 1rep=62 mate=2 pp=0 reduce=132K/15K
+              predicted=0  evals=229K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(4): e6
+White(5): Ng5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.95   0.66   5. Nc3 Be7 6. h3 Nh6 7. d5 exd5 8.
+                                    Qxd5 d6 9. Bc4 Nxe5 10. Nxe5 dxe5 11.
+                                    Qxe5
+              time=1.00  mat=0  n=287681  fh=88%  nps=287K
+              ext-> check=2K 1rep=63 mate=20 pp=0 reduce=139K/16K
+              predicted=0  evals=238K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+                8     0.71   0.38   5. Ng5 h5 6. h3 Nh6 7. Nc3 Nf5 8. Be2
+                                    Be7
+                8->   0.71   0.38   5. Ng5 h5 6. h3 Nh6 7. Nc3 Nf5 8. Be2
+                                    Be7
+                9     1.67   0.26   5. Ng5 Nh6 6. Nc3 d6 7. Nf3 Be7 8.
+                                    Ne4 O-O 9. Bxh6 <HT>
+                9->   1.67   0.26   5. Ng5 Nh6 6. Nc3 d6 7. Nf3 Be7 8.
+                                    Ne4 O-O 9. Bxh6 <HT>
+              time=1.67  mat=0  n=486836  fh=90%  nps=291K
+              ext-> check=6K 1rep=189 mate=16 pp=0 reduce=250K/27K
+              predicted=0  evals=409K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.67
+Black(5): h5
+White(6): Bb5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8->   0.72   0.35   6. h3 Nh6 7. Qxh5 Nxd4 8. Bd3 d5 9.
+                                    Nc3 Bb4
+                9     0.99   0.42   6. h3 Nh6 7. Qxh5 Nxd4 8. Bd3 d6 9.
+                                    Bf4 g6 10. Qh4
+              time=1.01  mat=0  n=309697  fh=92%  nps=306K
+              ext-> check=4K 1rep=274 mate=20 pp=0 reduce=157K/20K
+              predicted=0  evals=257K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+                9     1.12  -0.07   6. Bb5 Be7 7. Ne4 a6 8. Bxc6 dxc6 9.
+                                    O-O O-O 10. Nbc3
+                9->   1.13  -0.07   6. Bb5 Be7 7. Ne4 a6 8. Bxc6 dxc6 9.
+                                    O-O O-O 10. Nbc3
+              time=1.13  mat=0  n=310975  fh=89%  nps=275K
+              ext-> check=4K 1rep=189 mate=7 pp=0 reduce=139K/15K
+              predicted=0  evals=267K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.13
+Black(6): Bb4+
+White(7): c3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+              time=1.00  mat=0  n=266832  fh=89%  nps=266K
+              ext-> check=2K 1rep=54 mate=5 pp=0 reduce=101K/12K
+              predicted=0  evals=229K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.33  mat=0  n=91184  fh=92%  nps=276K
+              ext-> check=573 1rep=33 mate=3 pp=0 reduce=39K/4K
+              predicted=0  evals=77K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.33
+Black(7): Be7
+White(8): Ne4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+              time=1.01  mat=0  n=273239  fh=90%  nps=270K
+              ext-> check=1K 1rep=160 mate=0 pp=0 reduce=115K/13K
+              predicted=0  evals=234K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.44  mat=0  n=124470  fh=91%  nps=282K
+              ext-> check=1K 1rep=10 mate=0 pp=0 reduce=61K/6K
+              predicted=0  evals=106K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.44
+Black(8): O-O
+White(9): h3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+              time=1.04  mat=0  n=314186  fh=93%  nps=302K
+              ext-> check=3K 1rep=327 mate=2 pp=0 reduce=159K/22K
+              predicted=0  evals=268K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.04
+Black(9): f5
+White(10): hxg4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9->   0.74   2.08   10. hxg4 fxe4 11. Rxh5 d5 12. exd6
+                                    cxd6 13. Nd2 g6 14. Rh3
+              time=1.00  mat=0  n=297869  fh=93%  nps=297K
+              ext-> check=3K 1rep=148 mate=0 pp=0 reduce=141K/19K
+              predicted=0  evals=255K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(10): fxe4
+White(11): gxh5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.78   2.00   11. Rxh5 d5 12. exd6 cxd6 13. Bxc6
+                                    bxc6 14. Nd2 g6 15. Rh3
+              time=1.00  mat=0  n=301101  fh=92%  nps=301K
+              ext-> check=4K 1rep=238 mate=1 pp=0 reduce=144K/18K
+              predicted=0  evals=248K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+                9     0.76     +1   11. gxh5!!
+                9     0.88   2.12   11. gxh5 Bh4 12. Be3 Bg5 13. Qe2 Bf4
+                                    14. Bxc6 dxc6 15. Nd2
+                9->   0.88   2.12   11. gxh5 Bh4 12. Be3 Bg5 13. Qe2 Bf4
+                                    14. Bxc6 dxc6 15. Nd2
+              time=0.88  mat=0  n=294483  fh=93%  nps=334K
+              ext-> check=9K 1rep=378 mate=4 pp=0 reduce=154K/16K
+              predicted=0  evals=247K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.88
+Black(11): Bh4
+White(12): Be3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.93     +1   12. Be3!!
+                9     1.04   2.97   12. Be3 a6 13. Bxc6 dxc6 14. Nd2 Bd7
+                                    15. Qg4 Be7 16. Nxe4
+              time=1.04  mat=1  n=340442  fh=93%  nps=327K
+              ext-> check=6K 1rep=307 mate=13 pp=0 reduce=178K/20K
+              predicted=0  evals=279K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.04
+Black(12): a6
+White(13): Ba4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               10     0.67   4.65   13. Bxc6 bxc6 14. Qg4 Be7 15. h6 Rf7
+                                    16. h7+ Kh8 17. Qxe4 Qf8 18. Qg6 a5
+               10->   0.74   4.65   13. Bxc6 bxc6 14. Qg4 Be7 15. h6 Rf7
+                                    16. h7+ Kh8 17. Qxe4 Qf8 18. Qg6 a5
+              time=1.02  mat=1  n=379587  fh=94%  nps=372K
+              ext-> check=10K 1rep=825 mate=314 pp=0 reduce=217K/33K
+              predicted=0  evals=301K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               10     1.17     +1   13. Ba4!!
+               10     2.26   2.96   13. Ba4 Bg5 14. Qg4 Bxe3 15. fxe3 b5
+                                    16. h6 Qe7 17. h7+ Kh8 18. Bb3
+               10->   2.26   2.96   13. Ba4 Bg5 14. Qg4 Bxe3 15. fxe3 b5
+                                    16. h6 Qe7 17. h7+ Kh8 18. Bb3
+              time=2.26  mat=1  n=801205  fh=93%  nps=354K
+              ext-> check=19K 1rep=766 mate=79 pp=0 reduce=449K/62K
+              predicted=0  evals=657K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=2.26
+Black(13): b5
+White(14): Bc2
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.71   2.90   14. Bc2 Bg5 15. Qg4 Bxe3 16. fxe3 d5
+                                    17. h6 Qe7 18. h7+ Kh8
+                9->   0.78   2.90   14. Bc2 Bg5 15. Qg4 Bxe3 16. fxe3 d5
+                                    17. h6 Qe7 18. h7+ Kh8
+              time=1.05  mat=1  n=373164  fh=92%  nps=355K
+              ext-> check=9K 1rep=552 mate=95 pp=0 reduce=210K/23K
+              predicted=0  evals=302K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.05
+Black(14): d5
+White(15): Qg4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.80     +1   15. Qg4!!
+                9     0.91   4.14   15. Qg4 Be7 16. h6 Rf7 17. h7+ Kh8
+                                    18. f3 g5 19. Qh5 Qf8 20. fxe4
+              time=1.02  mat=1  n=350690  fh=94%  nps=343K
+              ext-> check=8K 1rep=556 mate=545 pp=0 reduce=190K/23K
+              predicted=0  evals=287K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+Black(15): Be7
+White(16): h6
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.67   4.45   16. h6 Rf7 17. h7+ Kh8 18. f3 Na5 19.
+                                    Nd2 Qf8 20. fxe4 Nc4 21. Nxc4 dxc4
+                9->   0.73   4.45   16. h6 Rf7 17. h7+ Kh8 18. f3 Na5 19.
+                                    Nd2 Qf8 20. fxe4 Nc4 21. Nxc4 dxc4
+              time=1.02  mat=1  n=388515  fh=94%  nps=380K
+              ext-> check=14K 1rep=1K mate=812 pp=0 reduce=239K/28K
+              predicted=0  evals=317K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+Black(16): Rf7
+White(17): h7+
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.76   4.45   17. h7+ Kh8 18. f3 Na5 19. Nd2 Qf8
+                                    20. fxe4 Nc4 21. Nxc4 dxc4
+              time=1.04  mat=1  n=432142  fh=94%  nps=415K
+              ext-> check=16K 1rep=1K mate=149 pp=0 reduce=270K/34K
+              predicted=0  evals=359K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.04
+Black(17): Kh8
+White(18): f3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8->   0.58   4.45   18. f3 Na5 19. Nd2 Qf8 20. fxe4 Nc4
+                                    21. Nxc4 dxc4
+              time=1.00  mat=1  n=397536  fh=95%  nps=397K
+              ext-> check=14K 1rep=755 mate=38 pp=0 reduce=231K/28K
+              predicted=0  evals=328K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(18): g5
+White(19): Qh5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.80   5.50   19. fxe4 Qf8 20. exd5 exd5 21. e6 Qg7
+                                    22. Bf5 <HT>
+                9->   0.89   5.50   19. fxe4 Qf8 20. exd5 exd5 21. e6 Qg7
+                                    22. Bf5 <HT>
+              time=1.01  mat=1  n=343760  fh=92%  nps=340K
+              ext-> check=5K 1rep=625 mate=0 pp=0 reduce=157K/19K
+              predicted=0  evals=284K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.64  mat=1  n=194845  fh=95%  nps=304K
+              ext-> check=3K 1rep=380 mate=0 pp=0 reduce=82K/9K
+              predicted=0  evals=157K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.64
+Black(19): Qf8
+White(20): fxe4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.68   5.50   20. fxe4 Qg7 21. Nd2 b4 22. exd5 exd5
+                                    23. O-O-O Bf5 24. Rdf1
+                9->   0.75   5.50   20. fxe4 Qg7 21. Nd2 b4 22. exd5 exd5
+                                    23. O-O-O Bf5 24. Rdf1
+              time=1.01  mat=1  n=338808  fh=95%  nps=335K
+              ext-> check=7K 1rep=514 mate=5 pp=0 reduce=157K/21K
+              predicted=0  evals=277K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(20): Qg7
+White(21): exd5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8->   0.77   5.14   21. Nd2 b4 22. exd5 exd5 23. g4 bxc3
+                                    24. bxc3 Rb8
+              time=1.01  mat=2  n=335034  fh=94%  nps=331K
+              ext-> check=6K 1rep=506 mate=1 pp=0 reduce=149K/20K
+              predicted=0  evals=278K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.23  mat=2  n=80185  fh=94%  nps=348K
+              ext-> check=1K 1rep=52 mate=0 pp=0 reduce=42K/6K
+              predicted=0  evals=64K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.23
+Black(21): exd5
+White(22): Nd2
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8->   0.61   5.27   22. Nd2 Bf5 23. Bxf5 Rxf5 24. O-O-O
+                                    Raf8 25. g4 R5f7
+                9     0.79   5.17   22. Nd2 Bf5 23. Bxf5 Rxf5 24. O-O-O
+                                    Raf8 25. g4 R5f7 26. e6
+              time=1.00  mat=2  n=364301  fh=93%  nps=364K
+              ext-> check=7K 1rep=395 mate=0 pp=0 reduce=199K/26K
+              predicted=0  evals=298K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(22): b4
+White(23): O-O-O
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8     0.89   5.09   23. Ba4 Bb7 24. e6 Rff8 25. Bc2 bxc3
+                                    26. bxc3
+              time=1.00  mat=2  n=343705  fh=93%  nps=343K
+              ext-> check=5K 1rep=367 mate=0 pp=0 reduce=153K/18K
+              predicted=0  evals=293K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.14  mat=2  n=41511  fh=93%  nps=296K
+              ext-> check=511 1rep=51 mate=0 pp=0 reduce=17K/2K
+              predicted=0  evals=34K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.14
+Black(23): bxc3
+White(24): bxc3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8     0.66   4.45   24. bxc3 Bf5 25. Bxf5 Rxf5 26. g4 Ba3+
+                                    27. Kc2 Rf7 28. Bxg5 Qxh7+ 29. Qxh7+
+                                    Rxh7
+                8->   0.74   4.45   24. bxc3 Bf5 25. Bxf5 Rxf5 26. g4 Ba3+
+                                    27. Kc2 Rf7 28. Bxg5 Qxh7+ 29. Qxh7+
+                                    Rxh7
+              time=1.02  mat=1  n=343770  fh=91%  nps=337K
+              ext-> check=7K 1rep=1K mate=10 pp=0 reduce=145K/17K
+              predicted=0  evals=287K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+Black(24): Ba3+
+White(25): Kb1
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9     0.72   4.69   25. Kb1 Rb8+ 26. Nb3 Bf5 27. Bxg5 Bxc2+
+                                    28. Kxc2 Rf5 29. Bf6 Rxh5 30. Bxg7+
+                                    Kxh7 31. Rxh5+ Kxg7
+                9->   0.72   4.69   25. Kb1 Rb8+ 26. Nb3 Bf5 27. Bxg5 Bxc2+
+                                    28. Kxc2 Rf5 29. Bf6 Rxh5 30. Bxg7+
+                                    Kxh7 31. Rxh5+ Kxg7
+              time=1.01  mat=2  n=367915  fh=91%  nps=364K
+              ext-> check=9K 1rep=1K mate=9 pp=0 reduce=166K/21K
+              predicted=0  evals=295K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(25): Bf5
+White(26): Bxg5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8     0.81   4.69   26. Bxg5 Rb8+ 27. Nb3 Bxc2+ 28. Kxc2
+                                    Rf5 29. Bf6 Rxh5 30. Bxg7+ Kxh7 31.
+                                    Rxh5+ Kxg7
+              time=1.00  mat=2  n=357097  fh=91%  nps=357K
+              ext-> check=11K 1rep=1K mate=0 pp=0 reduce=135K/13K
+              predicted=0  evals=291K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(26): Rb8+
+White(27): Nb3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8     0.58   4.87   27. Nb3 Bxc2+ 28. Kxc2 Rf5 29. Bf6
+                                    Rxh5 30. Bxg7+ Kxh7 31. Rxh5+ Kxg7
+                                    32. Kd3
+                8->   0.59   4.87   27. Nb3 Bxc2+ 28. Kxc2 Rf5 29. Bf6
+                                    Rxh5 30. Bxg7+ Kxh7 31. Rxh5+ Kxg7
+                                    32. Kd3
+              time=1.01  mat=3  n=401997  fh=94%  nps=398K
+              ext-> check=18K 1rep=1K mate=339 pp=0 reduce=175K/16K
+              predicted=0  evals=319K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(27): Bxc2+
+White(28): Kxc2
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+              time=1.01  mat=0  n=434110  fh=94%  nps=429K
+              ext-> check=23K 1rep=2K mate=314 pp=0 reduce=210K/16K
+              predicted=0  evals=343K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(28): Be7
+White(29): Bxe7
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                8     0.53   4.37   29. Bf6 Bxf6 30. exf6 Rxf6 31. Qxd5
+                                    Qg6+ 32. Kc1 Rf7 33. Rde1 Rxh7
+              time=1.03  mat=3  n=458129  fh=91%  nps=444K
+              ext-> check=21K 1rep=2K mate=14 pp=0 reduce=234K/23K
+              predicted=0  evals=367K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.03
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+                8     0.62   4.40   29. Bxe7 Nxe7 30. Rdf1 Qxg2+ 31. Nd2
+                                    Rxf1 32. Rxf1 Qg6+ 33. Qxg6 Nxg6
+                8->   0.62   4.40   29. Bxe7 Nxe7 30. Rdf1 Qxg2+ 31. Nd2
+                                    Rxf1 32. Rxf1 Qg6+ 33. Qxg6 Nxg6
+              time=0.62  mat=3  n=282898  fh=93%  nps=456K
+              ext-> check=14K 1rep=1K mate=18 pp=0 reduce=139K/16K
+              predicted=0  evals=227K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.62
+Black(29): Nxe7
+White(30): Rdf1
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                7->   0.52   4.51   30. Rdf1 Qxg2+ 31. Nd2 Rxf1 32. Rxf1
+                                    Qg6+ 33. Qxg6 Nxg6 34. Rf7
+                8     0.65   4.56   30. Rdf1 Qxg2+ 31. Nd2 Rxf1 32. Rxf1
+                                    Qg6+ 33. Qxg6 Nxg6 34. Rf7 c5
+                8->   0.82   4.56   30. Rdf1 Qxg2+ 31. Nd2 Rxf1 32. Rxf1
+                                    Qg6+ 33. Qxg6 Nxg6 34. Rf7 c5
+              time=1.00  mat=3  n=478400  fh=93%  nps=478K
+              ext-> check=22K 1rep=2K mate=1 pp=0 reduce=255K/32K
+              predicted=0  evals=375K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(30): Rxf1
+White(31): Rxf1
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               10     0.48   4.48   31. Rxf1 Qxg2+ 32. Nd2 Qg6+ 33. Qxg6
+                                    Nxg6 34. Rf7 Nf8 35. c4 dxc4 36. Nxc4
+                                    Nxh7 37. Rxc7
+               10->   0.54   4.48   31. Rxf1 Qxg2+ 32. Nd2 Qg6+ 33. Qxg6
+                                    Nxg6 34. Rf7 Nf8 35. c4 dxc4 36. Nxc4
+                                    Nxh7 37. Rxc7
+               11     0.91   4.46   31. Rxf1 Qxg2+ 32. Nd2 Qg6+ 33. Qxg6
+                                    Nxg6 34. Rf7 Nf8 35. Rxc7 Nxh7 36.
+                                    c4 Rd8 37. cxd5 Rxd5
+              time=1.00  mat=-2  n=533444  fh=93%  nps=533K
+              ext-> check=31K 1rep=2K mate=0 pp=0 reduce=285K/44K
+              predicted=0  evals=373K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(31): Qxg2+
+White(32): Nd2
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               11     0.39   4.17   32. Nd2 Qg6+ 33. Qxg6 Nxg6 34. Rf7
+                                    c5 35. Nf3 Rf8 36. e6 Rxf7 37. exf7
+                                    cxd4
+               11->   0.43   4.17   32. Nd2 Qg6+ 33. Qxg6 Nxg6 34. Rf7
+                                    c5 35. Nf3 Rf8 36. e6 Rxf7 37. exf7
+                                    cxd4
+              time=1.04  mat=2  n=557137  fh=92%  nps=535K
+              ext-> check=43K 1rep=2K mate=28 pp=0 reduce=284K/44K
+              predicted=0  evals=375K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.04
+Black(32): Qg6+
+White(33): Qxg6
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12     0.46   4.13   33. Qxg6 Nxg6 34. Rf7 c5 35. Rd7 Re8
+                                    36. Nf3 cxd4 37. cxd4 Nf8 38. Rxd5
+                                    Nxh7
+               12->   0.48   4.13   33. Qxg6 Nxg6 34. Rf7 c5 35. Rd7 Re8
+                                    36. Nf3 cxd4 37. cxd4 Nf8 38. Rxd5
+                                    Nxh7
+               13     0.99   4.12   33. Qxg6 Nxg6 34. Rf7 c5 35. Rd7 cxd4
+                                    36. cxd4 Nf8 37. Rxd5 Kxh7 38. Kd3
+                                    Ne6 39. Ke4
+              time=1.00  mat=2  n=512921  fh=93%  nps=512K
+              ext-> check=14K 1rep=195 mate=1 pp=0 reduce=290K/55K
+              predicted=0  evals=374K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(33): Nxg6
+White(34): Rf7
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               11     0.68   4.12   34. Rf7 c5 35. Rd7 cxd4 36. cxd4 Nf8
+                                    37. Rxd5 Kxh7 38. Kd3 Ne6 39. Ke4
+               11->   0.91   4.12   34. Rf7 c5 35. Rd7 cxd4 36. cxd4 Nf8
+                                    37. Rxd5 Kxh7 38. Kd3 Ne6 39. Ke4
+              time=1.01  mat=2  n=510807  fh=92%  nps=505K
+              ext-> check=15K 1rep=232 mate=1 pp=0 reduce=285K/50K
+              predicted=0  evals=374K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(34): Rc8
+White(35): Nf3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               10     0.48   3.80   35. Nb3 Nf8 36. Nc5 Nxh7 37. Nxa6 c6
+                                    38. Kd3 Ng5 39. Rc7 Rxc7 40. Nxc7
+               10->   0.68   3.80   35. Nb3 Nf8 36. Nc5 Nxh7 37. Nxa6 c6
+                                    38. Kd3 Ng5 39. Rc7 Rxc7 40. Nxc7
+               11     0.76   3.80   35. Nb3 Nf8 36. Nc5 Nxh7 37. Nxa6 c6
+                                    38. Kd3 Ng5 39. Rc7 Rxc7 40. Nxc7
+              time=1.01  mat=2  n=488593  fh=93%  nps=483K
+              ext-> check=13K 1rep=197 mate=13 pp=0 reduce=282K/50K
+              predicted=0  evals=370K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.13  mat=2  n=68371  fh=94%  nps=525K
+              ext-> check=1K 1rep=59 mate=35 pp=0 reduce=36K/7K
+              predicted=0  evals=46K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.13
+Black(35): Rf8
+White(36): Ng5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12     0.40   3.48   36. e6 Rxf7 37. exf7 Kxh7 38. Ne5 Nf8
+                                    39. c4 dxc4 40. Kc3 Kg7 41. Kxc4 Kf6
+               12->   0.67   3.48   36. e6 Rxf7 37. exf7 Kxh7 38. Ne5 Nf8
+                                    39. c4 dxc4 40. Kc3 Kg7 41. Kxc4 Kf6
+               13     0.86   3.58   36. e6 Rxf7 37. exf7 Kxh7 38. Ne5 Nf8
+                                    39. c4 dxc4 40. Kc3 Kg7 41. Kxc4 Kf6
+                                    42. Kd5
+              time=1.01  mat=2  n=596268  fh=90%  nps=590K
+              ext-> check=23K 1rep=1K mate=391 pp=0 reduce=339K/71K
+              predicted=0  evals=404K  50move=4  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               13     0.50   2.32   36. Ng5 Rxf7 37. Nxf7+ Kxh7 38. Ng5+
+                                    Kh6 39. Ne6 c6 40. Kd3 a5 41. c4 Kh5
+                                    42. cxd5 cxd5 43. Nc5
+               13->   0.50   2.32   36. Ng5 Rxf7 37. Nxf7+ Kxh7 38. Ng5+
+                                    Kh6 39. Ne6 c6 40. Kd3 a5 41. c4 Kh5
+                                    42. cxd5 cxd5 43. Nc5
+              time=0.50  mat=2  n=279332  fh=88%  nps=558K
+              ext-> check=8K 1rep=288 mate=38 pp=0 reduce=149K/32K
+              predicted=0  evals=179K  50move=4  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.50
+Black(36): Rxf7
+White(37): Nxf7+
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12     0.37   2.72   37. Nxf7+ Kxh7 38. Ng5+ Kh6 39. Ne6
+                                    c6 40. Nc5 a5 41. a4 Kg5 42. Nb7 Kf4
+                                    43. Nxa5 Ne7
+               12->   0.41   2.72   37. Nxf7+ Kxh7 38. Ng5+ Kh6 39. Ne6
+                                    c6 40. Nc5 a5 41. a4 Kg5 42. Nb7 Kf4
+                                    43. Nxa5 Ne7
+               13     0.60   2.87   37. Nxf7+ Kxh7 38. Ng5+ Kh6 39. Ne6
+                                    c6 40. Nc5 a5 41. a4 Kg5 42. Nb7 Kf4
+                                    43. Nxa5 c5 44. Kd3
+               13->   0.66   2.87   37. Nxf7+ Kxh7 38. Ng5+ Kh6 39. Ne6
+                                    c6 40. Nc5 a5 41. a4 Kg5 42. Nb7 Kf4
+                                    43. Nxa5 c5 44. Kd3
+              time=1.01  mat=-3  n=596432  fh=90%  nps=590K
+              ext-> check=14K 1rep=132 mate=0 pp=0 reduce=365K/87K
+              predicted=0  evals=388K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+Black(37): Kxh7
+White(38): Nd8
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               11->   0.43   2.39   38. Ng5+ Kh6 39. Ne6 c6 40. Kd3 a5
+                                    41. Nd8 Ne7 42. Nb7 a4 43. Nc5 a3
+               12     0.52     +1   38. Ng5+!!
+               12     0.57   2.87   38. Ng5+ Kh6 39. Ne6 c6 40. Nc5 a5
+                                    41. a4 Kg5 42. Nb7 c5 43. Nxa5 Kf4
+                                    44. Kd3
+               12->   0.67   2.87   38. Ng5+ Kh6 39. Ne6 c6 40. Nc5 a5
+                                    41. a4 Kg5 42. Nb7 c5 43. Nxa5 Kf4
+                                    44. Kd3
+               13     0.76   2.89   38. Ng5+ Kh6 39. Ne6 c6 40. Nc5 a5
+                                    41. a4 Kg5 42. Nb7 Kf4 43. Nxa5 c5
+                                    <HT>
+              time=1.00  mat=1  n=569198  fh=89%  nps=569K
+              ext-> check=13K 1rep=13 mate=0 pp=0 reduce=332K/79K
+              predicted=0  evals=365K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               13     0.35   2.92   38. Nd8 Ne7 39. Ne6 c6 40. Nc5 a5 41.
+                                    Nb7 Kg6 42. Nxa5 Kf5 43. Kd3 Kf4 44.
+                                    a4
+               13->   0.35   2.92   38. Nd8 Ne7 39. Ne6 c6 40. Nc5 a5 41.
+                                    Nb7 Kg6 42. Nxa5 Kf5 43. Kd3 Kf4 44.
+                                    a4
+              time=0.36  mat=1  n=203752  fh=91%  nps=565K
+              ext-> check=3K 1rep=7 mate=0 pp=0 reduce=118K/29K
+              predicted=0  evals=125K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.36
+Black(38): c5
+White(39): dxc5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               13     0.38   3.42   39. dxc5 Nxe5 40. c6 Nc4 41. c7 Nd6
+                                    42. Kd3 Kg7 43. Nb7 Nc8 44. c4 dxc4+
+                                    45. Kxc4 Kf6
+               13->   0.58   3.42   39. dxc5 Nxe5 40. c6 Nc4 41. c7 Nd6
+                                    42. Kd3 Kg7 43. Nb7 Nc8 44. c4 dxc4+
+                                    45. Kxc4 Kf6
+               14     0.83     +1   39. dxc5!!
+              time=1.04  mat=1  n=635302  fh=91%  nps=610K
+              ext-> check=16K 1rep=30 mate=0 pp=0 reduce=385K/87K
+              predicted=0  evals=408K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.04
+Black(39): Nxe5
+White(40): c6
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               13->   0.47   4.13   40. c6 Nc4 41. c7 Nb6 42. Ne6 Nc8 43.
+                                    Nf4 Kg7 44. Nxd5 Kf7 45. c4 Ke6 46.
+                                    Kd3
+               14     0.65   4.16   40. c6 Nc4 41. c7 Nb6 42. Ne6 Kg6 43.
+                                    Nf4+ Kf5 44. Nxd5 Nc8 45. Nb4 a5 46.
+                                    Nc6 a4 47. Kd3
+              time=1.02  mat=1  n=646870  fh=90%  nps=634K
+              ext-> check=18K 1rep=87 mate=0 pp=0 reduce=383K/83K
+              predicted=0  evals=416K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+Black(40): Nc4
+White(41): c7
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12->   0.33   4.14   41. c7 Nd6 42. Ne6 Kg6 43. Nf4+ Kf5
+                                    44. Nxd5 Nc8 45. Kd3 Ke5 46. c4 a5
+                                    47. a4
+               13     0.44   4.24   41. c7 Nd6 42. Ne6 Kg6 43. Nf4+ Kf5
+                                    44. Nxd5 Nc8 45. Kd3 Ke5 46. c4 a5
+                                    47. a4 Kd6
+               13->   0.63   4.24   41. c7 Nd6 42. Ne6 Kg6 43. Nf4+ Kf5
+                                    44. Nxd5 Nc8 45. Kd3 Ke5 46. c4 a5
+                                    47. a4 Kd6
+               14     0.95   4.34   41. c7 Nd6 42. Ne6 Kg6 43. Nf4+ Kf5
+                                    44. Nxd5 Nc8 45. Kd3 Ke5 46. c4 a5
+                                    47. a4 Kd6 48. Kd4
+              time=0.96  mat=1  n=601885  fh=90%  nps=626K
+              ext-> check=19K 1rep=54 mate=0 pp=0 reduce=358K/80K
+              predicted=0  evals=387K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.96
+Black(41): Nb6
+White(42): Kd3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12     0.37   4.31   42. Nc6 Kg8 43. Ne7+ Kf7 44. Nxd5 Nc8
+                                    45. Kb3 Ke6 46. Kc4 Kd6 47. Kd4 a5
+                                    48. c4
+               12     0.46   4.44   42. Kb3 Nc8 43. Kb4 Kg6 44. Kc5 Kf6
+                                    45. Kxd5 Ke7 46. Ne6 Kd7 47. a4
+               12->   0.56   4.44   42. Kb3 Nc8 43. Kb4 Kg6 44. Kc5 Kf6
+                                    45. Kxd5 Ke7 46. Ne6 Kd7 47. a4
+               13     0.67   4.49   42. Kb3 Nc8 43. Kb4 Kg6 44. Kc5 Kf6
+                                    45. Kxd5 Ke7 46. Kc6 a5 47. Kb7 Nd6+
+                                    48. Kb6 a4
+               13->   0.91   4.49   42. Kb3 Nc8 43. Kb4 Kg6 44. Kc5 Kf6
+                                    45. Kxd5 Ke7 46. Kc6 a5 47. Kb7 Nd6+
+                                    48. Kb6 a4
+              time=1.02  mat=1  n=616815  fh=91%  nps=604K
+              ext-> check=20K 1rep=10 mate=0 pp=0 reduce=369K/87K
+              predicted=0  evals=392K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               13     0.44   4.47   42. Kd3 Kg6 43. Kd4 Kf6 44. a4 Kf5
+                                    45. Kc5 Nc8 46. Kxd5 Kf4 47. Kc6 Ke3
+                                    48. Kd7
+               13->   0.45   4.47   42. Kd3 Kg6 43. Kd4 Kf6 44. a4 Kf5
+                                    45. Kc5 Nc8 46. Kxd5 Kf4 47. Kc6 Ke3
+                                    48. Kd7
+              time=0.45  mat=1  n=275392  fh=88%  nps=611K
+              ext-> check=11K 1rep=17 mate=0 pp=0 reduce=147K/29K
+              predicted=0  evals=172K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.45
+Black(42): Kg6
+White(43): Kd4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12->   0.46   4.52   43. Kd4 Kf6 44. Kc5 Nc8 45. Kxd5 Ke7
+                                    46. Kc6 a5 47. Kb7 Nd6+ 48. Kb6 a4
+                                    49. Nc6+ Ke6
+               13     0.58   4.58   43. Kd4 Kf6 44. Kc5 Nc8 45. Kxd5 Ke7
+                                    46. Kc6 a5 47. Kb7 Nd6+ 48. Kb6 a4
+                                    49. Nc6+ Ke6 50. Nd4+ Kd5
+               13->   0.97   4.58   43. Kd4 Kf6 44. Kc5 Nc8 45. Kxd5 Ke7
+                                    46. Kc6 a5 47. Kb7 Nd6+ 48. Kb6 a4
+                                    49. Nc6+ Ke6 50. Nd4+ Kd5
+              time=1.02  mat=1  n=640272  fh=89%  nps=627K
+              ext-> check=25K 1rep=41 mate=0 pp=0 reduce=353K/77K
+              predicted=0  evals=392K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+Black(43): Kf6
+White(44): c8=Q
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12     0.40   5.00   44. Kc5 Nc8 45. Kxd5 Ke7 46. Kc6 Ke8
+                                    47. Kb7 Kd7 48. Nf7 Ne7 49. Ne5+ Ke6
+                                    50. Nc4
+               12->   0.49   5.00   44. Kc5 Nc8 45. Kxd5 Ke7 46. Kc6 Ke8
+                                    47. Kb7 Kd7 48. Nf7 Ne7 49. Ne5+ Ke6
+                                    50. Nc4
+               13     0.56     +1   44. Kc5!!
+               13     0.77   5.70   44. Kc5 Nc8 45. Kxd5 Ke7 46. Kc6 a5
+                                    47. Kb7 Kd7 48. Nf7 Ne7 49. Ne5+ Ke8
+                                    50. c8=B Nxc8 51. Kxc8
+               13->   0.88   5.70   44. Kc5 Nc8 45. Kxd5 Ke7 46. Kc6 a5
+                                    47. Kb7 Kd7 48. Nf7 Ne7 49. Ne5+ Ke8
+                                    50. c8=B Nxc8 51. Kxc8
+              time=1.00  mat=1  n=626742  fh=89%  nps=626K
+              ext-> check=22K 1rep=147 mate=0 pp=0 reduce=331K/74K
+              predicted=0  evals=370K  50move=5  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.28  mat=1  n=166304  fh=81%  nps=593K
+              ext-> check=5K 1rep=3 mate=0 pp=0 reduce=85K/17K
+              predicted=0  evals=97K  50move=5  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.28
+Black(44): Nxc8
+White(45): Kxd5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               11     0.47   2.35   45. Kxd5 Nb6+ 46. Kc5 Na4+ 47. Kd4
+                                    Nb6 48. c4 Ke7 49. Nc6+ Ke6 50. c5
+                                    Nd7 51. a4 Nf6
+               11->   0.50   2.35   45. Kxd5 Nb6+ 46. Kc5 Na4+ 47. Kd4
+                                    Nb6 48. c4 Ke7 49. Nc6+ Ke6 50. c5
+                                    Nd7 51. a4 Nf6
+               12     0.78   2.47   45. Kxd5 Nb6+ 46. Kc5 Nd7+ 47. Kd6
+                                    Nb6 48. Nc6 Nc4+ 49. Kc5 Nb2 50. c4
+                                    Ke6 51. Nd4+ Ke5 52. Nf3+ Ke4 53. Nd4
+               12->   0.83   2.47   45. Kxd5 Nb6+ 46. Kc5 Nd7+ 47. Kd6
+                                    Nb6 48. Nc6 Nc4+ 49. Kc5 Nb2 50. c4
+                                    Ke6 51. Nd4+ Ke5 52. Nf3+ Ke4 53. Nd4
+              time=1.00  mat=0  n=586410  fh=82%  nps=586K
+              ext-> check=18K 1rep=0 mate=0 pp=0 reduce=314K/65K
+              predicted=0  evals=338K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(45): Nb6+
+White(46): Kc6
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12     0.35   2.48   46. Kc5 Nd7+ 47. Kd6 Nb6 48. Nc6 Kf5
+                                    49. Nb8 a5 50. Nc6 a4 51. Kc5 Nd7+
+                                    52. Kd6 Nb6
+               12->   0.39   2.48   46. Kc5 Nd7+ 47. Kd6 Nb6 48. Nc6 Kf5
+                                    49. Nb8 a5 50. Nc6 a4 51. Kc5 Nd7+
+                                    52. Kd6 Nb6
+               13     0.64   2.71   46. Kc5 Nd7+ 47. Kd6 Nb6 48. Nc6 Kf5
+                                    49. Nb8 a5 50. Nc6 a4 51. Kc5 Nd7+
+                                    52. Kb5 a3 53. c4
+               13->   0.72   2.71   46. Kc5 Nd7+ 47. Kd6 Nb6 48. Nc6 Kf5
+                                    49. Nb8 a5 50. Nc6 a4 51. Kc5 Nd7+
+                                    52. Kb5 a3 53. c4
+              time=1.00  mat=1  n=589660  fh=85%  nps=589K
+              ext-> check=17K 1rep=5 mate=0 pp=0 reduce=330K/72K
+              predicted=0  evals=342K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.13  mat=1  n=79648  fh=84%  nps=612K
+              ext-> check=2K 1rep=0 mate=0 pp=0 reduce=43K/10K
+              predicted=0  evals=46K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.13
+Black(46): Na4
+White(47): c4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12->   0.34   2.23   47. c4 Kf5 48. c5 Ke5 49. Nb7 Nc3 50.
+                                    a3 Nb1 51. a4 Nc3 52. Kb6 Kd4
+               13     0.44   2.32   47. c4 Kf5 48. c5 Ke5 49. Nb7 Nc3 50.
+                                    a3 Kd4 51. Nd6 <HT>
+               13->   0.46   2.32   47. c4 Kf5 48. c5 Ke5 49. Nb7 Nc3 50.
+                                    a3 Kd4 51. Nd6 <HT>
+              time=1.00  mat=1  n=598409  fh=83%  nps=598K
+              ext-> check=19K 1rep=5 mate=0 pp=0 reduce=329K/72K
+              predicted=0  evals=350K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(47): Nc3
+White(48): a3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               12     0.43   2.03   48. a3 Ke5 49. c5 Na4 50. Nb7 Kd4 51.
+                                    Kd6 Nc3 52. Kd7 Nb5 53. a4 Nc3
+               12     0.74   2.11   48. Kb6 Ke5 49. c5 Na4+ 50. Kc6 Kd4
+                                    51. Nb7 Nc3 52. Kb6 Nxa2 53. Kxa6 Nc3
+                                    54. Kb6
+               12->   0.79   2.11   48. Kb6 Ke5 49. c5 Na4+ 50. Kc6 Kd4
+                                    51. Nb7 Nc3 52. Kb6 Nxa2 53. Kxa6 Nc3
+                                    54. Kb6
+              time=1.03  mat=1  n=621830  fh=83%  nps=603K
+              ext-> check=22K 1rep=4 mate=0 pp=0 reduce=338K/75K
+              predicted=0  evals=359K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.03
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.20  mat=1  n=110145  fh=82%  nps=550K
+              ext-> check=3K 1rep=1 mate=0 pp=0 reduce=58K/12K
+              predicted=0  evals=66K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.20
+Black(48): Ke5
+White(49): Kb6
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               11     0.47   2.69   49. c5 Na4 50. Nb7 Kd4 51. Kd6 Nb2
+                                    52. c6 Nc4+ 53. Ke7 Nb6 54. c7 Kc3
+               11->   0.49   2.69   49. c5 Na4 50. Nb7 Kd4 51. Kd6 Nb2
+                                    52. c6 Nc4+ 53. Ke7 Nb6 54. c7 Kc3
+               12     0.57   2.59   49. c5 Na4 50. Nb7 Ke6 51. Na5 Nc3
+                                    52. Kb7 Nb5 53. Kxa6 Nxa3 54. Kb6 Kd5
+               12->   0.62   2.59   49. c5 Na4 50. Nb7 Ke6 51. Na5 Nc3
+                                    52. Kb7 Nb5 53. Kxa6 Nxa3 54. Kb6 Kd5
+               13     0.73   2.80   49. c5 Na4 50. Nb7 Ke6 51. Na5 Ke5
+                                    52. Nb3 Nb2 53. Na5 Na4 <HT>
+               13->   0.83   2.80   49. c5 Na4 50. Nb7 Ke6 51. Na5 Ke5
+                                    52. Nb3 Nb2 53. Na5 Na4 <HT>
+               14     0.97   2.80   49. c5 Na4 50. Nb7 Ke6 51. Na5 Ke5
+                                    52. Nb3 Nb2 53. Na5 <HT>
+              time=1.03  mat=1  n=624450  fh=84%  nps=606K
+              ext-> check=20K 1rep=10 mate=0 pp=0 reduce=347K/81K
+              predicted=0  evals=361K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.03
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               14     0.44   0.01   49. Kb6 Kd4 50. c5 Na4+ 51. Ka7 Kxc5
+                                    52. Kxa6 Kc4 53. Ne6 Kb3 54. Nc7 Kxa3
+                                    55. Ka7 Nb2 56. Ne8
+               14->   0.44   0.01   49. Kb6 Kd4 50. c5 Na4+ 51. Ka7 Kxc5
+                                    52. Kxa6 Kc4 53. Ne6 Kb3 54. Nc7 Kxa3
+                                    55. Ka7 Nb2 56. Ne8
+              time=0.44  mat=1  n=281760  fh=90%  nps=640K
+              ext-> check=8K 1rep=4 mate=0 pp=0 reduce=164K/41K
+              predicted=0  evals=155K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.44
+Black(49): Kd4
+White(50): c5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               13     0.37   0.01   50. c5 Na4+ 51. Ka7 Nxc5 52. Nb7 Nxb7
+                                    53. Kxb7 Kc3 54. Kxa6 Kb3 55. a4 Kxa4
+                                    56. Kb7 Ka3
+               13->   0.44   0.01   50. c5 Na4+ 51. Ka7 Nxc5 52. Nb7 Nxb7
+                                    53. Kxb7 Kc3 54. Kxa6 Kb3 55. a4 Kxa4
+                                    56. Kb7 Ka3
+               14     0.58   0.01   50. c5 Na4+ 51. Ka7 Nxc5 52. Nb7 Nxb7
+                                    53. Kxb7 Kc3 54. Kxa6 Kb3 55. a4 Kxa4
+                                    56. Kb7 Ka3 57. Kc8
+               14->   0.69   0.01   50. c5 Na4+ 51. Ka7 Nxc5 52. Nb7 Nxb7
+                                    53. Kxb7 Kc3 54. Kxa6 Kb3 55. a4 Kxa4
+                                    56. Kb7 Ka3 57. Kc8
+               15     0.95   0.01   50. c5 Na4+ 51. Ka7 Nxc5 52. Nb7 Nxb7
+                                    53. Kxb7 Kc3 54. Kxa6 Kb3 55. a4 Kxa4
+                                    56. Kb7 Ka3 57. Kc8 Ka2
+              time=1.02  mat=1  n=670412  fh=93%  nps=657K
+              ext-> check=16K 1rep=9 mate=0 pp=0 reduce=418K/121K
+              predicted=0  evals=333K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+Black(50): Na4+
+White(51): Kxa6
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               13->   0.34   0.01   51. Kc6 Nxc5 52. Nb7 Na4 53. Nd6 Nb2
+                                    54. Kb6 Kd5 55. Kxa6 Kxd6 56. Kb7 Nd1
+                                    57. Kc8
+               14     0.42   0.01   51. Kc6 Nxc5 52. Nb7 Na4 53. Nd6 Nb2
+                                    54. Kb6 Kd5 55. Kxa6 Kxd6 56. Kb7 Nd1
+                                    57. Kc8 Nb2
+               14->   0.54   0.01   51. Kc6 Nxc5 52. Nb7 Na4 53. Nd6 Nb2
+                                    54. Kb6 Kd5 55. Kxa6 Kxd6 56. Kb7 Nd1
+                                    57. Kc8 Nb2
+               15     0.68   0.01   51. Kc6 Nxc5 52. Nb7 Na4 53. Nd6 Nb2
+                                    54. Kb6 Kd5 55. Kxa6 Kxd6 56. Kb7 Nd1
+                                    57. Kc8 Nb2 58. Kd8
+               15->   0.95   0.01   51. Kc6 Nxc5 52. Nb7 Na4 53. Nd6 Nb2
+                                    54. Kb6 Kd5 55. Kxa6 Kxd6 56. Kb7 Nd1
+                                    57. Kc8 Nb2 58. Kd8
+              time=1.00  mat=1  n=650399  fh=89%  nps=650K
+              ext-> check=17K 1rep=30 mate=0 pp=0 reduce=370K/97K
+              predicted=0  evals=346K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               15     0.38   0.01   51. Kxa6 Nxc5+ 52. Ka7 Kc3 53. Nf7
+                                    Kb2 54. Nh8 Kxa3 55. Nf7 Ka2 56. Nh8
+                                    Ka1 57. Nf7 Kb1 58. Nh8 Ka1
+               15->   0.38   0.01   51. Kxa6 Nxc5+ 52. Ka7 Kc3 53. Nf7
+                                    Kb2 54. Nh8 Kxa3 55. Nf7 Ka2 56. Nh8
+                                    Ka1 57. Nf7 Kb1 58. Nh8 Ka1
+              time=0.38  mat=1  n=254394  fh=97%  nps=669K
+              ext-> check=5K 1rep=0 mate=0 pp=0 reduce=166K/45K
+              predicted=0  evals=124K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.38
+Black(51): Nxc5+
+White(52): Kb5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               15     0.30   0.01   52. Kb5 Kc3 53. Kxc5 Kb3 54. a4 Kxa4
+                                    55. Nf7 Ka3 56. Nh8 Ka2 57. Nf7 Ka1
+                                    58. Nh8 Kb1 59. Nf7
+               15->   0.33   0.01   52. Kb5 Kc3 53. Kxc5 Kb3 54. a4 Kxa4
+                                    55. Nf7 Ka3 56. Nh8 Ka2 57. Nf7 Ka1
+                                    58. Nh8 Kb1 59. Nf7
+               16     0.49   0.01   52. Kb5 Kc3 53. Kxc5 Kb3 54. a4 Kxa4
+                                    55. Nf7 Ka3 56. Nh8 Ka2 57. Nf7 Ka1
+                                    58. Nh8 Kb1 59. Nf7 Ka1
+               16->   0.56   0.01   52. Kb5 Kc3 53. Kxc5 Kb3 54. a4 Kxa4
+                                    55. Nf7 Ka3 56. Nh8 Ka2 57. Nf7 Ka1
+                                    58. Nh8 Kb1 59. Nf7 Ka1
+               17     0.82   0.01   52. Kb5 Kc3 53. Kxc5 Kb3 54. a4 Kxa4
+                                    55. Nf7 Ka3 56. Nh8 Ka2 57. Nf7 Ka1
+                                    58. Nh8 Kb1 59. Nf7 Ka1
+               17->   0.92   0.01   52. Kb5 Kc3 53. Kxc5 Kb3 54. a4 Kxa4
+                                    55. Nf7 Ka3 56. Nh8 Ka2 57. Nf7 Ka1
+                                    58. Nh8 Kb1 59. Nf7 Ka1
+              time=1.02  mat=1  n=769654  fh=99%  nps=754K
+              ext-> check=16K 1rep=56 mate=0 pp=0 reduce=555K/207K
+              predicted=0  evals=295K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+Black(52): Kc3
+White(53): Nb7
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               16->   0.33   0.01   53. Kxc5 Kb3 54. Nc6 Kxa3 55. Nd8 Ka2
+                                    56. Nf7 Ka1 57. Nh8 Kb1 58. Nf7 Ka1
+               17     0.35   0.01   53. Kxc5 Kb3 54. Nc6 Kxa3 55. Nd8 Ka2
+                                    56. Nf7 Ka1 57. Nh8 Kb1 58. Nf7 Ka1
+               17->   0.49   0.01   53. Kxc5 Kb3 54. Nc6 Kxa3 55. Nd8 Ka2
+                                    56. Nf7 Ka1 57. Nh8 Kb1 58. Nf7 Ka1
+               18     0.52   0.01   53. Kxc5 Kb3 54. Nc6 Kxa3 55. Nd8 Ka2
+                                    56. Nf7 Ka1 57. Nh8 Kb1 58. Nf7 Ka1
+               18->   0.72   0.01   53. Kxc5 Kb3 54. Nc6 Kxa3 55. Nd8 Ka2
+                                    56. Nf7 Ka1 57. Nh8 Kb1 58. Nf7 Ka1
+               19     0.75   0.01   53. Kxc5 Kb3 54. Nc6 Kxa3 55. Nd8 Ka2
+                                    56. Nf7 Ka1 57. Nh8 Kb1 58. Nf7 Ka1
+              time=1.00  mat=1  n=793266  fh=98%  nps=793K
+              ext-> check=14K 1rep=129 mate=0 pp=0 reduce=576K/264K
+              predicted=0  evals=263K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               16     0.31   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1
+               16->   0.31   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1
+               17     0.51   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1 61. Kh8
+               17->   0.51   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1 61. Kh8
+               18     0.81   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1 61. Kh8 Ka1
+               18->   0.81   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1 61. Kh8 Ka1
+               19     1.21   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1 61. Kh8 Ka1
+                                    62. Kg8
+               19->   1.21   0.01   53. Nb7 Nxb7 54. Kc6 Kb2 55. Kxb7 Kxa3
+                                    56. Kc8 Ka2 57. Kd8 Ka1 58. Ke8 Kb1
+                                    59. Kf8 Ka1 60. Kg8 Kb1 61. Kh8 Ka1
+                                    62. Kg8
+              time=1.21  mat=1  n=892265  fh=98%  nps=737K
+              ext-> check=19K 1rep=65 mate=0 pp=0 reduce=643K/250K
+              predicted=0  evals=353K  50move=2  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.21
+Black(53): Nxb7
+White(54): a4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               18     0.28   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               18->   0.29   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               19     0.39   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               19->   0.40   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               20     0.51   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               20->   0.51   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               21     0.64   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               21->   0.64   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               22     0.79   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               22->   0.79   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               23     0.96   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+               23->   0.97   0.01   54. Kc6 Kb3 55. Kxb7 Kxa3 56. Kc8 Ka2
+                                    57. Kd8 Ka1 58. Ke8 Kb1 59. Kf8 Ka1
+                                    60. Kg8 Kb1 61. Kh8 Ka1 62. Kg8
+              time=1.03  mat=-2  n=850834  fh=99%  nps=826K
+              ext-> check=12K 1rep=17 mate=0 pp=0 reduce=683K/453K
+              predicted=0  evals=159K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.03
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               16     0.34   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1
+               16->   0.34   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1
+               17     0.48   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7
+               17->   0.48   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7
+               18     0.67   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+               18->   0.68   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+               19     0.90   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8
+               19->   0.90   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8
+               20     1.17   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1
+               20->   1.18   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1
+               21     1.50   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1 64. Kg8
+               21->   1.50   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1 64. Kg8
+               22     1.87   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1 64. Kg8 Ka1
+               22->   1.87   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1 64. Kg8 Ka1
+               23     2.34   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1 64. Kg8 Ka1 65. Kh7
+               23->   2.34   0.01   54. a4 Kb3 55. Kc6 Kxa4 56. Kxb7 Ka3
+                                    57. Kc8 Ka2 58. Kd8 Ka1 59. Ke8 Kb1
+                                    60. Kf8 Ka1 61. Kg8 Kb1 62. Kh7 Ka1
+                                    63. Kh8 Kb1 64. Kg8 Ka1 65. Kh7
+              time=2.34  mat=-2  n=1880370  fh=99%  nps=803K
+              ext-> check=39K 1rep=27 mate=0 pp=0 reduce=1.5M/933K
+              predicted=0  evals=391K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=2.34
+Black(54): Kb3
+White(55): a5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               18     0.28   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+               18->   0.28   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+               19     0.36   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8
+               19->   0.36   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8
+               20     0.46   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+               20->   0.47   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+               21     0.60   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+               21->   0.60   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+               22     0.72   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+               22->   0.73   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+               23     0.88   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+               23->   0.89   0.01   55. Kc6 Kxa4 56. Kxb7 Ka3 57. Kc8 Ka2
+                                    58. Kd8 Ka1 59. Ke8 Kb1 60. Kf8 Ka1
+                                    61. Kg8 Ka2 62. Kh8 Ka1 63. Kh7 Kb1
+                                    64. Kh8 Ka1
+              time=1.02  mat=-2  n=840652  fh=99%  nps=824K
+              ext-> check=13K 1rep=10 mate=0 pp=0 reduce=675K/446K
+              predicted=0  evals=159K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.02
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               17     0.38   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8
+               17->   0.38   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8
+               18     0.53   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+               18->   0.53   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+               19     0.70   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               19->   0.70   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               20     0.90   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               20->   0.90   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               21     1.17   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               21->   1.17   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               22     1.46   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               22->   1.46   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               23     1.80   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+               23->   1.80   0.01   55. a5 Nxa5 56. Kxa5 Ka2 57. Kb6 Ka1
+                                    58. Kc7 Kb1 59. Kd8 Ka1 60. Ke8 Ka2
+                                    61. Kf8 Ka1 62. Kg8 Kb1 63. Kh8 Ka1
+                                    64. Kg8
+              time=1.80  mat=-2  n=1465727  fh=100%  nps=814K
+              ext-> check=31K 1rep=13 mate=0 pp=0 reduce=1.2M/733K
+              predicted=0  evals=308K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.80
+Black(55): Nxa5
+White(56): Kxa5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               54     0.21   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               54->   0.22   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               55     0.22   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               55->   0.22   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               56     0.23   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               56->   0.23   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               57     0.24   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               57->   0.24   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               58     0.25   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               58->   0.25   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               59     0.26   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               59->   0.26   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               60     0.26   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+               60->   0.26   0.01   56. Kxa5 Ka2 57. Kb6 Ka1 58. Kc7 Kb1
+                                    59. Kd8 Ka1 60. Ke8 Kb1 61. Kf8 Ka1
+                                    62. Kg8 Ka2 63. Kh8 Ka1 64. Kh7 Kb1
+                                    65. Kh8 Ka1
+              time=0.26  mat=-3  n=235923  fh=100%  nps=907K
+              ext-> check=0 1rep=0 mate=0 pp=0 reduce=188K/179K
+              predicted=0  evals=5K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.26
+Black(56): Kb2
+White(57): 

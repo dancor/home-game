@@ -1,0 +1,79 @@
+
+Crafty v22.1 (1 cpus)
+
+White(1): annotateh 2008-12-19_20.40.58.pgn w 1-999 1 1
+White(1): e4
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               10     0.99   0.13   1. d4 Nf6 2. Nc3 d5 3. Nf3 e6 4. Bg5
+                                    Nc6 5. e3 Bd6 <HT>
+              time=1.00  mat=0  n=278567  fh=85%  nps=278K
+              ext-> check=2K 1rep=92 mate=0 pp=0 reduce=147K/28K
+              predicted=0  evals=200K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+              time=0.70  mat=0  n=194896  fh=85%  nps=278K
+              ext-> check=2K 1rep=79 mate=0 pp=0 reduce=100K/18K
+              predicted=0  evals=146K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.70
+Black(1): Nc6
+White(2): Nf3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               10     0.95   0.32   2. Nc3 Nf6 3. Nf3 d5 4. e5 Ne4 5. Bb5
+                                    Nxc3 6. dxc3 Bf5
+              time=1.01  mat=0  n=284939  fh=87%  nps=282K
+              ext-> check=3K 1rep=174 mate=1 pp=0 reduce=147K/25K
+              predicted=0  evals=223K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)
+               10     0.93   0.34   2. Nf3 Nf6 3. e5 Ne4 4. d4 d6 5. Bd3
+                                    <HT>
+               10->   0.93   0.34   2. Nf3 Nf6 3. e5 Ne4 4. d4 d6 5. Bd3
+                                    <HT>
+              time=0.93  mat=0  n=260751  fh=88%  nps=280K
+              ext-> check=2K 1rep=66 mate=0 pp=0 reduce=126K/20K
+              predicted=0  evals=207K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=0.93
+Black(2): Nf6
+White(3): e5
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+                9->   0.76   0.36   3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 e6 6.
+                                    Bg5 Be7 7. Be3
+               10     0.89   0.51   3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 e6 6.
+                                    Bd3 Be7 7. O-O O-O
+              time=1.00  mat=0  n=313339  fh=90%  nps=313K
+              ext-> check=9K 1rep=646 mate=2 pp=0 reduce=167K/22K
+              predicted=0  evals=253K  50move=3  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.00
+Black(3): Ne4
+White(4): Nc3
+
+              Searching all legal moves.----------------------------------
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+               11     0.80   0.91   4. d3 Nc5 5. d4 Ne4 6. d5 Nb4 7. Nc3
+                                    f5 8. exf6 Nxf6 9. Bf4
+               11->   0.96   0.91   4. d3 Nc5 5. d4 Ne4 6. d5 Nb4 7. Nc3
+                                    f5 8. exf6 Nxf6 9. Bf4
+              time=1.01  mat=0  n=311596  fh=90%  nps=308K
+              ext-> check=3K 1rep=234 mate=1 pp=0 reduce=184K/26K
+              predicted=0  evals=244K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/128  elap=1.01
+
+              Searching only the move played in game.--------------------
+              time surplus   0.00  time limit 3.00 (+0.00) (3.00)
+              depth   time  score   variation (1)

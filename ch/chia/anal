@@ -1,0 +1,5 @@
+#!/bin/bash
+F="`mydate`".pgn
+mv game.pgn "$F"
+exec echo $'annotateh '"$F"' w 1-999 0.5 5\nquit' | crafty
+ff "$F".html
